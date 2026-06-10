@@ -161,8 +161,8 @@ textarea {
 
 .hero-overlay {
   background:
-    linear-gradient(90deg, rgba(13, 16, 17, 0.96) 0%, rgba(13, 16, 17, 0.74) 42%, rgba(13, 16, 17, 0.28) 100%),
-    linear-gradient(0deg, rgba(13, 16, 17, 0.9) 0%, rgba(13, 16, 17, 0.08) 46%);
+    linear-gradient(90deg, rgba(13, 16, 17, 0.88) 0%, rgba(13, 16, 17, 0.58) 42%, rgba(13, 16, 17, 0.16) 100%),
+    linear-gradient(0deg, rgba(13, 16, 17, 0.72) 0%, rgba(13, 16, 17, 0.03) 48%);
 }
 
 .hero-content {
@@ -495,10 +495,20 @@ h3 {
   min-height: 78vh;
   padding: 142px clamp(20px, 4vw, 56px) 72px;
   background:
-    linear-gradient(90deg, rgba(13, 16, 17, 0.98), rgba(13, 16, 17, 0.84) 52%, rgba(13, 16, 17, 0.58)),
-    linear-gradient(135deg, rgba(213, 170, 99, 0.14), rgba(125, 150, 135, 0.08)),
-    url("assets/hero-tpi-lux.png") center / cover;
+    linear-gradient(90deg, rgba(13, 16, 17, 0.96), rgba(13, 16, 17, 0.78) 50%, rgba(13, 16, 17, 0.36)),
+    linear-gradient(0deg, rgba(13, 16, 17, 0.76), rgba(13, 16, 17, 0.06) 54%),
+    var(--service-bg, url("assets/hero-tpi-lux.png")) center / cover;
 }
+
+
+.service-bg-01 { --service-bg: url("assets/bg-01-architectural-lighting.jpg"); }
+.service-bg-02 { --service-bg: url("assets/bg-02-led-garlands.jpg"); }
+.service-bg-03 { --service-bg: url("assets/bg-03-christmas-decoration.jpg"); }
+.service-bg-04 { --service-bg: url("assets/bg-04-electrical-installation.jpg"); }
+.service-bg-05 { --service-bg: url("assets/bg-05-lighting-control.jpg"); }
+.service-bg-06 { --service-bg: url("assets/bg-06-security-low-voltage.jpg"); }
+.service-bg-07 { --service-bg: url("assets/bg-07-climate-ventilation.jpg"); }
+.service-bg-08 { --service-bg: url("assets/bg-08-playgrounds-urban.jpg"); }
 
 .service-hero-copy,
 .service-hero-panel,
