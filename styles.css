@@ -186,6 +186,7 @@ h2,
 h3,
 p {
   margin-top: 0;
+  overflow-wrap: break-word;
 }
 
 h1 {
@@ -282,6 +283,12 @@ h3 {
   align-items: start;
 }
 
+.split > *,
+.section-heading > *,
+.contact-section > * {
+  min-width: 0;
+}
+
 .rich-copy {
   color: rgba(23, 32, 30, 0.76);
   font-size: 19px;
@@ -317,6 +324,57 @@ h3 {
 
 .service-card:nth-child(3n) {
   background: #1d211f;
+}
+
+.solutions {
+  background: #111614;
+}
+
+.solution-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  border: 1px solid var(--line);
+  background: var(--line);
+}
+
+.solution-card {
+  min-height: 270px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 26px;
+  padding: 26px;
+  background: var(--panel);
+}
+
+.solution-card.featured {
+  grid-column: span 2;
+  background:
+    linear-gradient(135deg, rgba(213, 170, 99, 0.2), rgba(125, 150, 135, 0.08)),
+    #1b211f;
+}
+
+.solution-card span {
+  display: block;
+  margin-bottom: 14px;
+  color: var(--gold);
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.solution-card p {
+  margin-bottom: 0;
+  color: var(--muted);
+}
+
+.solution-card ul {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding-left: 18px;
+  color: rgba(255, 255, 255, 0.78);
 }
 
 .process {
@@ -467,8 +525,13 @@ h3 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .process-list {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+  .process-list,
+  .solution-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .solution-card.featured {
+    grid-column: span 2;
   }
 }
 
@@ -521,6 +584,14 @@ h3 {
     grid-template-columns: 1fr;
   }
 
+  .solution-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .solution-card.featured {
+    grid-column: auto;
+  }
+
   .section,
   .contact-section {
     padding-top: 72px;
@@ -538,11 +609,13 @@ h3 {
   }
 
   .service-grid,
-  .process-list {
+  .process-list,
+  .solution-grid {
     grid-template-columns: 1fr;
   }
 
   .service-card,
+  .solution-card,
   .process-list li,
   .hero-facts div {
     min-height: auto;
