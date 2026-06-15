@@ -61,16 +61,28 @@ textarea {
 .brand {
   display: inline-flex;
   align-items: center;
+  gap: 8px;
   min-width: max-content;
   font-weight: 800;
   letter-spacing: 0;
 }
 
-.brand-logo {
+.brand-icon {
   display: block;
-  width: 118px;
-  height: 48px;
+  width: 28px;
+  height: 28px;
   object-fit: contain;
+  mix-blend-mode: screen;
+}
+
+.brand-mark {
+  color: var(--gold);
+  font-size: 22px;
+}
+
+.brand-text {
+  color: var(--white);
+  font-size: 22px;
 }
 
 .main-nav {
@@ -863,7 +875,7 @@ h3 {
   align-items: center;
 }
 
-.brand-logo {
+.brand-icon {
   flex: 0 0 auto;
 }
 
