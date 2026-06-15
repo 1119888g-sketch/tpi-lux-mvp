@@ -60,21 +60,17 @@ textarea {
 
 .brand {
   display: inline-flex;
-  align-items: baseline;
-  gap: 8px;
+  align-items: center;
   min-width: max-content;
   font-weight: 800;
   letter-spacing: 0;
 }
 
-.brand-mark {
-  color: var(--gold);
-  font-size: 22px;
-}
-
-.brand-text {
-  color: var(--white);
-  font-size: 22px;
+.brand-logo {
+  display: block;
+  width: 118px;
+  height: 48px;
+  object-fit: contain;
 }
 
 .main-nav {
@@ -310,14 +306,14 @@ h3 {
 
 .service-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1px;
   border: 1px solid var(--line);
   background: var(--line);
 }
 
 .service-card {
-  min-height: 260px;
+  min-height: 300px;
   display: flex;
   flex-direction: column;
   padding: 26px;
@@ -867,11 +863,12 @@ h3 {
   align-items: center;
 }
 
-.brand-emblem {
-  display: block;
+.brand-logo {
   flex: 0 0 auto;
-  width: 26px;
-  height: 26px;
+}
+
+.brand-emblem {
+  display: none;
 }
 
 /* Service cards as photo tiles */
@@ -901,7 +898,17 @@ h3 {
   position: absolute;
   inset: 0;
   z-index: 1;
-  background: linear-gradient(180deg, rgba(13, 16, 17, 0.5) 0%, rgba(13, 16, 17, 0.82) 70%, rgba(13, 16, 17, 0.92) 100%);
+  background: linear-gradient(180deg, rgba(13, 16, 17, 0.42) 0%, rgba(13, 16, 17, 0.8) 64%, rgba(13, 16, 17, 0.94) 100%);
+}
+
+.service-card.is-new::after {
+  background:
+    linear-gradient(180deg, rgba(13, 16, 17, 0.28) 0%, rgba(13, 16, 17, 0.74) 58%, rgba(13, 16, 17, 0.94) 100%),
+    linear-gradient(135deg, rgba(213, 170, 99, 0.34), rgba(125, 150, 135, 0.08) 58%);
+}
+
+.service-card.is-new {
+  border: 1px solid rgba(213, 170, 99, 0.3);
 }
 
 .service-card:hover::before {
