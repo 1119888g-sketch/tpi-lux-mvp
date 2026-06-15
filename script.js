@@ -2,6 +2,12 @@ const menuToggle = document.querySelector('[data-menu-toggle]');
 const mainNav = document.querySelector('.main-nav');
 const contactForm = document.querySelector('.contact-form');
 
+const heroVideo = document.querySelector('video.hero-image');
+if (heroVideo && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  heroVideo.removeAttribute('autoplay');
+  heroVideo.pause();
+}
+
 if (menuToggle && mainNav) {
   const setExpanded = (open) => {
     menuToggle.setAttribute('aria-expanded', String(open));
