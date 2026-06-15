@@ -3,13 +3,20 @@ const mainNav = document.querySelector('.main-nav');
 const contactForm = document.querySelector('.contact-form');
 
 if (menuToggle && mainNav) {
+  const setExpanded = (open) => {
+    menuToggle.setAttribute('aria-expanded', String(open));
+    menuToggle.setAttribute('aria-label', open ? 'Закрыть меню' : 'Открыть меню');
+  };
+
   menuToggle.addEventListener('click', () => {
-    mainNav.classList.toggle('is-open');
+    const open = mainNav.classList.toggle('is-open');
+    setExpanded(open);
   });
 
   mainNav.addEventListener('click', (event) => {
     if (event.target instanceof HTMLAnchorElement) {
       mainNav.classList.remove('is-open');
+      setExpanded(false);
     }
   });
 }
@@ -21,7 +28,7 @@ if (contactForm) {
     if (!button) return;
 
     const originalText = button.textContent;
-    button.textContent = 'Заявка зафиксирована в MVP';
+    button.textContent = 'Заявка принята — мы свяжемся с вами';
     button.disabled = true;
 
     window.setTimeout(() => {

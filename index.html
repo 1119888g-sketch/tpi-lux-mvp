@@ -4,16 +4,40 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>TPI LUX | Световые решения и инженерные системы в Грузии</title>
-    <meta name="description" content="TPI LUX проектирует, поставляет, монтирует и обслуживает световые решения, инженерные системы и инфраструктурные проекты в Грузии.">
+    <meta name="description" content="TPI LUX проектирует, поставляет, монтирует и обслуживает световые решения, инженерные системы и инфраструктурные проекты в Грузии. Один подрядчик — единый результат.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap">
     <link rel="stylesheet" href="styles.css">
+    <link rel="canonical" href="https://tpilux.com/">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3Crect%20width='24'%20height='24'%20fill='%230d1011'/%3E%3Cg%20fill='none'%20stroke='%23d5aa63'%20stroke-width='1.4'%20stroke-linejoin='round'%3E%3Cpath%20d='M5%209%2012%202%2019%209%2012%2022Z'/%3E%3Cpath%20d='M5%209H19'/%3E%3Cpath%20d='M12%202%209.2%209%2012%2022%2014.8%209Z'/%3E%3C/g%3E%3C/svg%3E">
+    <meta name="theme-color" content="#0d1011">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="TPI LUX">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:title" content="TPI LUX — световые решения и инженерные системы в Грузии">
+    <meta property="og:description" content="Проектирование, производство, поставка, монтаж и сервис световых и инженерных систем. Один подрядчик — единый результат.">
+    <meta property="og:url" content="https://tpilux.com/">
+    <meta property="og:image" content="https://tpilux.com/assets/og-cover.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="TPI LUX — световые решения и инженерные системы в Грузии">
+    <meta name="twitter:description" content="Проектирование, производство, поставка, монтаж и сервис световых и инженерных систем. Один подрядчик — единый результат.">
+    <meta name="twitter:image" content="https://tpilux.com/assets/og-cover.jpg">
   </head>
   <body>
     <header class="site-header" data-header>
       <a class="brand" href="#top" aria-label="TPI LUX">
+        <svg class="brand-emblem" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <g fill="none" stroke="#d5aa63" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round">
+            <path d="M5 9 12 2 19 9 12 22Z"/>
+            <path d="M5 9H19"/>
+            <path d="M12 2 9.2 9 12 22 14.8 9Z"/>
+          </g>
+        </svg>
         <span class="brand-mark">TPI</span>
         <span class="brand-text">LUX</span>
       </a>
-      <nav class="main-nav" aria-label="Основная навигация">
+      <nav class="main-nav" id="primary-nav" aria-label="Основная навигация">
         <a href="#services">Услуги</a>
         <a href="#process">Модель работы</a>
         <a href="#projects">Проекты</a>
@@ -21,7 +45,7 @@
         <a href="#contacts">Контакты</a>
       </nav>
       <a class="header-cta" href="#contacts">Обсудить проект</a>
-      <button class="menu-toggle" type="button" data-menu-toggle aria-label="Открыть меню">
+      <button class="menu-toggle" type="button" data-menu-toggle aria-label="Открыть меню" aria-expanded="false" aria-controls="primary-nav">
         <span></span>
         <span></span>
       </button>
@@ -29,7 +53,7 @@
 
     <main id="top">
       <section class="hero">
-        <img class="hero-image" src="assets/hero-tpi-lux.png" alt="">
+        <img class="hero-image" src="assets/hero-tpi-lux.jpg" alt="" fetchpriority="high">
         <div class="hero-overlay"></div>
         <div class="hero-content">
           <p class="eyebrow">Georgia / Premium engineering service</p>
@@ -59,17 +83,76 @@
         </div>
       </section>
 
-      <section class="section intro" id="company">
-        <div class="section-kicker">TPI LUX</div>
+      <section class="section about" id="company">
+        <div class="section-kicker">О компании</div>
         <div class="split">
           <div>
-            <h2>Инженерно-производственный подход к сервису</h2>
+            <h2>Инженерно-производственная компания полного цикла</h2>
           </div>
           <div class="rich-copy">
-            <p>TPI LUX создаётся как самостоятельный бренд для Грузии: люксовый уровень сервиса, аккуратная коммуникация, понятная ответственность и решения, рассчитанные на реальную эксплуатацию.</p>
-            <p>Мы работаем с городскими пространствами, коммерческими объектами, общественными территориями и частными проектами, где важны внешний вид, надёжность и сроки.</p>
+            <p>TPI LUX — инженерно-производственная компания, реализующая световые, инфраструктурные и специальные технические проекты.</p>
+            <p>Мы объединяем проектирование, производство, поставку, монтаж и техническое сопровождение в единую систему работы — чтобы клиент получал не набор отдельных услуг, а единый, управляемый процесс.</p>
+            <p>Работаем с частными, коммерческими и городскими проектами, помогая заказчикам получать прогнозируемый результат без лишней координации подрядчиков.</p>
+            <p class="lead-accent">Наш подход — высокий уровень продукта и сервиса без неоправданной стоимости. Мы берём ответственность не только за поставку, но и за результат.</p>
           </div>
         </div>
+
+        <div class="section-kicker" style="margin-top:56px">Почему нас выбирают</div>
+        <div class="about-points">
+          <div>
+            <strong>Инженерная экспертиза</strong>
+            <p>Решаем стандартные и нестандартные технические задачи.</p>
+          </div>
+          <div>
+            <strong>Комплексная реализация</strong>
+            <p>От идеи до запуска и сопровождения.</p>
+          </div>
+          <div>
+            <strong>Международная команда</strong>
+            <p>Опыт работы в нескольких странах и рынках.</p>
+          </div>
+          <div>
+            <strong>Один подрядчик — единый результат</strong>
+            <p>Минимум коммуникаций и контроль на каждом этапе.</p>
+          </div>
+        </div>
+
+        <div class="about-extra">
+          <div class="about-philosophy">
+            <div class="section-kicker">Наша философия</div>
+            <p class="about-quote">Мы не продаём отдельные услуги. Мы собираем рабочие решения под конкретную задачу — объединяя опыт, технологии и реализацию в единую систему.</p>
+            <p>Не усложняем процессы там, где можно сделать понятнее. Не упрощаем там, где важен результат.</p>
+          </div>
+          <div class="about-when">
+            <div class="section-kicker">Когда к нам обращаются</div>
+            <ul>
+              <li>Нужно объединить несколько подрядчиков в одну команду.</li>
+              <li>Есть нестандартная задача или ограничения проекта.</li>
+              <li>Важны сроки, качество и ответственность.</li>
+              <li>Нужен результат, а не управление процессом.</li>
+            </ul>
+          </div>
+        </div>
+
+        <p class="about-tagline">TPI LUX — новый стандарт реализации.</p>
+      </section>
+
+      <section class="section stats" aria-label="TPI LUX в цифрах">
+        <div class="section-heading">
+          <div>
+            <div class="section-kicker">TPI LUX в цифрах</div>
+            <h2>Почему нам доверяют проекты</h2>
+          </div>
+          <p>Результат складывается из опыта, процессов и внимания к деталям.</p>
+        </div>
+        <div class="stats-grid">
+          <div><b>100+</b><span>реализованных проектов</span></div>
+          <div><b>17 000 м²</b><span>оформленных и реализованных пространств</span></div>
+          <div><b>20+ лет</b><span>опыта команды</span></div>
+          <div><b>6 стран</b><span>география реализованных проектов</span></div>
+          <div><b>98,7%</b><span>проектов завершены в согласованные сроки</span></div>
+        </div>
+        <p class="stats-note">Не обещаем невозможное. Делаем так, чтобы результат совпадал с ожиданиями.</p>
       </section>
 
       <section class="section services" id="services">
@@ -81,54 +164,100 @@
           <p>Каждое направление открывается как отдельная страница с составом работ, решениями и заявкой.</p>
         </div>
         <div class="service-grid">
-          <a class="service-card" href="architectural-lighting.html">
+          <a class="service-card service-bg-01" href="architectural-lighting.html">
             <span>01</span>
             <h3>Архитектурное и ландшафтное освещение</h3>
             <p>Концепция, расчёты, поставка, монтаж и настройка фасадного и паркового света.</p>
             <em>Подробнее</em>
           </a>
-          <a class="service-card" href="led-garlands-figures.html">
+          <a class="service-card service-bg-02" href="led-garlands-figures.html">
             <span>02</span>
             <h3>Светодиодные гирлянды и фигуры</h3>
             <p>Уличные и интерьерные гирлянды, 2D/3D фигуры, динамические сценарии и сервис.</p>
             <em>Подробнее</em>
           </a>
-          <a class="service-card" href="christmas-decoration.html">
+          <a class="service-card service-bg-03" href="christmas-decoration.html">
             <span>03</span>
             <h3>Новогодние ёлки и праздничное оформление</h3>
             <p>Городские ёлки, световые арки, тоннели, фотозоны и сезонное обслуживание.</p>
             <em>Подробнее</em>
           </a>
-          <a class="service-card" href="electrical-installation.html">
+          <a class="service-card service-bg-04" href="electrical-installation.html">
             <span>04</span>
             <h3>Электромонтаж</h3>
             <p>Кабельные линии, щитовое оборудование, питание освещения и инженерных систем.</p>
             <em>Подробнее</em>
           </a>
-          <a class="service-card" href="lighting-control.html">
+          <a class="service-card service-bg-05" href="lighting-control.html">
             <span>05</span>
             <h3>Системы управления светом</h3>
             <p>DMX, контроллеры, централизованное управление, динамические световые сцены.</p>
             <em>Подробнее</em>
           </a>
-          <a class="service-card" href="security-low-voltage.html">
+          <a class="service-card service-bg-06" href="security-low-voltage.html">
             <span>06</span>
             <h3>Безопасность и слаботочные сети</h3>
             <p>Видеонаблюдение, контроль доступа, СКС, интеграция и техническое обслуживание.</p>
             <em>Подробнее</em>
           </a>
-          <a class="service-card" href="climate-ventilation.html">
+          <a class="service-card service-bg-07" href="climate-ventilation.html">
             <span>07</span>
             <h3>Климат и вентиляция</h3>
             <p>Вентиляция, кондиционирование, VRF/VRV, фанкойлы, запуск и сервис систем.</p>
             <em>Подробнее</em>
           </a>
-          <a class="service-card" href="playgrounds-urban.html">
+          <a class="service-card service-bg-08" href="playgrounds-urban.html">
             <span>08</span>
             <h3>Детские площадки и благоустройство</h3>
             <p>Игровые комплексы, парковые элементы, производство, монтаж и обслуживание.</p>
             <em>Подробнее</em>
           </a>
+          <a class="service-card service-bg-09 is-new" href="event-show-solutions.html">
+            <span>09</span>
+            <h3>Event &amp; Show Solutions <span class="badge-new">New</span></h3>
+            <p>Шоу дронов, временная инфраструктура, свет, техсопровождение и локальная команда в Армении и Грузии.</p>
+            <em>Подробнее</em>
+          </a>
+        </div>
+      </section>
+
+      <section class="section challenge">
+        <div class="section-heading">
+          <div>
+            <div class="section-kicker">Решаем нестандартные задачи</div>
+            <h2>Стандартные решения есть у многих. Инженерные — у единиц.</h2>
+          </div>
+          <p>Когда проект выходит за рамки типовых сценариев — подключается наша команда.</p>
+        </div>
+        <div class="challenge-grid">
+          <article>
+            <span class="ico">⚙️</span>
+            <strong>Нестандартные конструкции</strong>
+            <p>Проектируем и адаптируем решения под задачу.</p>
+          </article>
+          <article>
+            <span class="ico">🏭</span>
+            <strong>Производство под проект</strong>
+            <p>Не подгоняем идею под ассортимент.</p>
+          </article>
+          <article>
+            <span class="ico">🏗️</span>
+            <strong>Сложные объекты</strong>
+            <p>Работаем там, где важны точность и координация.</p>
+          </article>
+          <article>
+            <span class="ico">🔌</span>
+            <strong>Интеграция нескольких систем</strong>
+            <p>Свет, инженерия, инфраструктура — как единое решение.</p>
+          </article>
+          <article>
+            <span class="ico">🛠️</span>
+            <strong>Сервис после реализации</strong>
+            <p>Не исчезаем после завершения работ.</p>
+          </article>
+        </div>
+        <div class="block-cta">
+          <a class="button primary" href="#contacts">Обсудить нестандартную задачу</a>
         </div>
       </section>
 
@@ -148,6 +277,63 @@
           <li><span>05</span><strong>Пуско-наладка</strong><p>Тестирование, настройка режимов, программирование сценариев.</p></li>
           <li><span>06</span><strong>Сервис</strong><p>Обслуживание, диагностика, сезонные работы и поддержка эксплуатации.</p></li>
         </ol>
+      </section>
+
+      <section class="section geo">
+        <div class="section-heading">
+          <div>
+            <div class="section-kicker">География работы</div>
+            <h2>Работаем локально. Реализуем масштабно.</h2>
+          </div>
+          <p>Где бы ни находился проект — подход остаётся одинаковым.</p>
+        </div>
+        <div class="geo-grid">
+          <div class="geo-points">
+            <span>📍 Грузия</span>
+            <span>📍 Армения</span>
+            <span>📍 СНГ</span>
+          </div>
+          <div class="geo-tags">
+            <div>Локальная команда</div>
+            <div>Международный опыт</div>
+            <div>Быстрое подключение к проектам</div>
+            <div>Единый стандарт реализации</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section stats" aria-label="Формирование стоимости">
+        <div class="section-heading">
+          <div>
+            <div class="section-kicker">Как мы формируем стоимость</div>
+            <h2>Понятная стоимость без неприятных сюрпризов</h2>
+          </div>
+          <p>Чем точнее подготовка — тем спокойнее реализация.</p>
+        </div>
+        <div class="pricing-flow">
+          <div><span>01</span><strong>Предварительная оценка</strong><p>Понимаем задачу и формируем ориентир.</p></div>
+          <div><span>02</span><strong>Технический расчёт</strong><p>Уточняем решения и объём работ.</p></div>
+          <div><span>03</span><strong>Фиксация стоимости</strong><p>Согласовываем и закрепляем бюджет.</p></div>
+          <div><span>04</span><strong>Реализация проекта</strong><p>Работаем по утверждённому плану.</p></div>
+        </div>
+        <p class="pricing-note">Максимально точный расчёт ещё до начала работ.</p>
+      </section>
+
+      <section class="section benefits">
+        <div class="section-heading">
+          <div>
+            <div class="section-kicker">Что получает заказчик</div>
+            <h2>Меньше управления подрядчиками — больше контроля над результатом</h2>
+          </div>
+          <p>Мы берём на себя координацию, чтобы вы могли сосредоточиться на результате.</p>
+        </div>
+        <div class="benefits-grid">
+          <div><span class="check">✔</span><strong>Один подрядчик</strong><p>Единая команда вместо нескольких исполнителей.</p></div>
+          <div><span class="check">✔</span><strong>Один ответственный</strong><p>Понятная коммуникация.</p></div>
+          <div><span class="check">✔</span><strong>Один график</strong><p>Синхронизация всех этапов.</p></div>
+          <div><span class="check">✔</span><strong>Один бюджет</strong><p>Без постоянного пересогласования.</p></div>
+          <div><span class="check">✔</span><strong>Один сервис</strong><p>От идеи до завершения проекта.</p></div>
+        </div>
       </section>
 
       <section class="section projects" id="projects">
@@ -174,6 +360,19 @@
         </div>
       </section>
 
+      <section class="service-cta">
+        <div>
+          <div class="section-kicker">Получить концепцию</div>
+          <h2>Начните не с расчёта — начните с идеи</h2>
+          <p>Расскажите задачу — предложим концепцию реализации, подход и возможные сценарии проекта.</p>
+          <p class="cta-note">Для частных, коммерческих и инфраструктурных проектов.</p>
+        </div>
+        <div class="service-cta-actions">
+          <a class="button primary" href="#contacts">Получить концепцию</a>
+          <a class="button secondary" href="#contacts">Обсудить проект</a>
+        </div>
+      </section>
+
       <section class="contact-section" id="contacts">
         <div class="contact-copy">
           <div class="section-kicker">Контакты</div>
@@ -189,18 +388,18 @@
         <form class="contact-form">
           <label>
             Имя
-            <input type="text" name="name" placeholder="Как к вам обращаться">
+            <input type="text" name="name" placeholder="Как к вам обращаться" required>
           </label>
           <label>
             Контакт
-            <input type="text" name="contact" placeholder="Телефон, WhatsApp или email">
+            <input type="text" name="contact" placeholder="Телефон, WhatsApp или email" required>
           </label>
           <label>
             Задача
             <textarea name="message" rows="4" placeholder="Коротко опишите объект или направление"></textarea>
           </label>
           <button class="button primary" type="submit">Отправить заявку</button>
-          <p class="form-note">Форма в MVP не отправляет данные. На WordPress подключим рабочую отправку.</p>
+          <p class="form-note">Мы свяжемся с вами в течение рабочего дня. Можно сразу написать в WhatsApp или Telegram.</p>
         </form>
       </section>
     </main>
