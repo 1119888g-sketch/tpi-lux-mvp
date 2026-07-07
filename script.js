@@ -3,9 +3,33 @@ const mainNav = document.querySelector('.main-nav');
 const contactForm = document.querySelector('.contact-form');
 
 const heroVideo = document.querySelector('video.hero-image');
-if (heroVideo && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-  heroVideo.removeAttribute('autoplay');
-  heroVideo.pause();
+if (heroVideo) {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    heroVideo.removeAttribute('autoplay');
+    heroVideo.pause();
+  } else {
+    // Явный запуск: iOS/мобильные часто не стартуют autoplay без вызова play()
+    const startHero = () => {
+      const attempt = heroVideo.play();
+      if (attempt && typeof attempt.catch === 'function') {
+        attempt.catch(() => {
+          // Автоплей заблокирован (Low Power / экономия трафика) — запустим по первому касанию
+          const resume = () => {
+            heroVideo.play().catch(() => {});
+            document.removeEventListener('touchstart', resume);
+            document.removeEventListener('click', resume);
+          };
+          document.addEventListener('touchstart', resume, { once: true, passive: true });
+          document.addEventListener('click', resume, { once: true });
+        });
+      }
+    };
+    if (heroVideo.readyState >= 2) {
+      startHero();
+    } else {
+      heroVideo.addEventListener('loadeddata', startHero, { once: true });
+    }
+  }
 }
 
 if (menuToggle && mainNav) {
