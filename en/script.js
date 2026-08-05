@@ -58,7 +58,7 @@ if (contactForm) {
     if (!button) return;
 
     const originalText = button.textContent;
-    button.textContent = 'Заявка принята — мы свяжемся с вами';
+    button.textContent = 'Enquiry received — we will be in touch';
     button.disabled = true;
 
     window.setTimeout(() => {
