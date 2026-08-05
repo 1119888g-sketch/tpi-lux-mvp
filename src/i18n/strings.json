@@ -1,0 +1,4205 @@
+{
+  "074fce49": {
+    "src": "Архитектурное и ландшафтное освещение | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "architectural-lighting.html:og:title",
+      "architectural-lighting.html:twitter:title"
+    ]
+  },
+  "8dc0e994": {
+    "src": "Проектирование, поставка и монтаж систем освещения для зданий, парков и общественных пространств в Грузии.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html:description",
+      "architectural-lighting.html:og:description",
+      "architectural-lighting.html:twitter:description"
+    ]
+  },
+  "97d8a754": {
+    "src": "Основная навигация",
+    "ka": "ძირითადი ნავიგაცია",
+    "en": "Main navigation",
+    "ctx": [
+      "architectural-lighting.html:nav@aria-label",
+      "christmas-decoration.html:nav@aria-label",
+      "climate-ventilation.html:nav@aria-label",
+      "electrical-installation.html:nav@aria-label",
+      "event-show-solutions.html:nav@aria-label",
+      "index.html:nav@aria-label",
+      "led-garlands-figures.html:nav@aria-label",
+      "lighting-control.html:nav@aria-label",
+      "playgrounds-urban.html:nav@aria-label",
+      "security-low-voltage.html:nav@aria-label"
+    ]
+  },
+  "cb1c054b": {
+    "src": "Услуги",
+    "ka": "სერვისები",
+    "en": "Services",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "53bd2ffd": {
+    "src": "Модель работы",
+    "ka": "სამუშაო მოდელი",
+    "en": "How we work",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "b90d9f72": {
+    "src": "Проекты",
+    "ka": "პროექტები",
+    "en": "Projects",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "e7641849": {
+    "src": "О компании",
+    "ka": "კომპანიის შესახებ",
+    "en": "About",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "dba0fcb2": {
+    "src": "Контакты",
+    "ka": "კონტაქტი",
+    "en": "Contacts",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "0407392b": {
+    "src": "Обсудить проект",
+    "ka": "პროექტის განხილვა",
+    "en": "Discuss a project",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "72374bf6": {
+    "src": "Открыть меню",
+    "ka": "მენიუს გახსნა",
+    "en": "Open menu",
+    "ctx": [
+      "architectural-lighting.html:button@aria-label",
+      "christmas-decoration.html:button@aria-label",
+      "climate-ventilation.html:button@aria-label",
+      "electrical-installation.html:button@aria-label",
+      "event-show-solutions.html:button@aria-label",
+      "index.html:button@aria-label",
+      "led-garlands-figures.html:button@aria-label",
+      "lighting-control.html:button@aria-label",
+      "playgrounds-urban.html:button@aria-label",
+      "security-low-voltage.html:button@aria-label",
+      "script.js"
+    ]
+  },
+  "2c2fd1b0": {
+    "src": "Назад к специализациям",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "c294dda4": {
+    "src": "TPI LUX / направление 01",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "a7d95f67": {
+    "src": "Архитектурное и ландшафтное освещение",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "394a9d64": {
+    "src": "Проектируем, поставляем и монтируем системы освещения для фасадов, парков, общественных пространств и частных территорий. Свет подбирается под архитектуру, эксплуатацию и бюджет объекта.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "1840e490": {
+    "src": "Смотреть состав работ",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "8072862a": {
+    "src": "Принцип TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "bf8046b4": {
+    "src": "Свет под объект, а не под склад",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "8bcd64b1": {
+    "src": "Оборудование подбирается под объект, а не под склад: задача, среда, срок службы и бюджет важнее универсальных решений.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "3cf2df9c": {
+    "src": "Состав работ",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "67336f94": {
+    "src": "Что входит в направление",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "c30ca591": {
+    "src": "Структура собрана из рабочего материала и приведена к формату коммерческой страницы.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "aaba51c3": {
+    "src": "Разработка световой концепции",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "33d9d0ca": {
+    "src": "Общая идея освещения с учётом архитектуры, окружения, сценариев использования и визуального результата.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "7bb40513": {
+    "src": "Проектирование и расчёты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "61ff91c5": {
+    "src": "Светотехнические расчёты, схемы размещения оборудования, кабельные трассы и проектная документация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "e367cacc": {
+    "src": "Подбор и поставка оборудования",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "e7e1c868": {
+    "src": "Архитектурные прожекторы, линейные светильники, контурная подсветка и акцентные решения под конкретный объект.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "aa20d28f": {
+    "src": "Монтаж и подключение",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "led-garlands-figures.html"
+    ]
+  },
+  "4a90baf4": {
+    "src": "Прокладка кабелей, установка оборудования, подключение и проверка системы перед запуском.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "38e36a74": {
+    "src": "Настройка сценариев",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "eff7fdfb": {
+    "src": "Статические и динамические режимы, акцентные сцены, интеграция с системами управления светом.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "4e34f238": {
+    "src": "Сервисное обслуживание",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "b5ceac99": {
+    "src": "Поддержка системы после запуска: диагностика, обслуживание, замена элементов и контроль стабильной работы.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "1ec7f0a2": {
+    "src": "Решения",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "fe615646": {
+    "src": "Типовые элементы проекта",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "d3e0eade": {
+    "src": "линейные фасадные светильники",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "f3ae9772": {
+    "src": "архитектурные прожекторы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "e0c07a10": {
+    "src": "контурная подсветка",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "ea95be3a": {
+    "src": "акцентные светильники",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "82d1e313": {
+    "src": "садово-парковые светильники",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "d5a47763": {
+    "src": "грунтовые светильники",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "e01e5614": {
+    "src": "освещение дорожек",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "7a1b01b4": {
+    "src": "декоративные световые элементы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "14b568cf": {
+    "src": "Инженерная ответственность",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "b48f4dbf": {
+    "src": "Почему TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "b0150e02": {
+    "src": "Комплексный подход к проекту: концепция, проектирование, комплектация, монтаж, запуск и сервис в одной ответственности.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "650bf4ca": {
+    "src": "Команда работает с крупными объектами, где важны сроки, безопасность, контроль качества и понятная коммуникация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "1a96e829": {
+    "src": "Решения подбираются под объект и эксплуатацию, а не только под внешний вид на старте.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "ca87acdc": {
+    "src": "Заявка",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "7813ddf5": {
+    "src": "Нужна система освещения для здания, парка или территории? Подготовим концепцию, оборудование и план реализации.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html"
+    ]
+  },
+  "3e3f8747": {
+    "src": "Напишите нам: подготовим техническое решение, варианты реализации и коммерческое предложение под объект в Грузии.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "d40ee50d": {
+    "src": "Перейти к контактам",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "dfd6d564": {
+    "src": "info@tpilux.com",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "37c2c442": {
+    "src": "Связанные направления",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "3abacd40": {
+    "src": "Можно объединить в один проект",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "aa69c3d7": {
+    "src": "Большинство объектов требует связки света, электрики, управления и сервиса.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "0c6ee814": {
+    "src": "Светодиодные гирлянды и фигуры",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "dd3e8546": {
+    "src": "Новогодние ёлки и праздничное оформление",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "07ea3ff9": {
+    "src": "Детские площадки и благоустройство",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "1b8e3adb": {
+    "src": "Все направления",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html:nav@aria-label",
+      "christmas-decoration.html:nav@aria-label",
+      "climate-ventilation.html:nav@aria-label",
+      "electrical-installation.html:nav@aria-label",
+      "event-show-solutions.html:nav@aria-label",
+      "led-garlands-figures.html:nav@aria-label",
+      "lighting-control.html:nav@aria-label",
+      "playgrounds-urban.html:nav@aria-label",
+      "security-low-voltage.html:nav@aria-label"
+    ]
+  },
+  "678dba37": {
+    "src": "Электромонтаж",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "2925c258": {
+    "src": "Системы управления светом",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "3318ea32": {
+    "src": "Безопасность и слаботочные сети",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "47586a62": {
+    "src": "Климат и вентиляция",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "43c65edd": {
+    "src": "Event &amp; Show Solutions",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "9113c6c0": {
+    "src": "Georgia",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "763b899c": {
+    "src": "Luxury-level service at a fair price",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "architectural-lighting.html",
+      "christmas-decoration.html",
+      "climate-ventilation.html",
+      "electrical-installation.html",
+      "event-show-solutions.html",
+      "index.html",
+      "led-garlands-figures.html",
+      "lighting-control.html",
+      "playgrounds-urban.html",
+      "security-low-voltage.html"
+    ]
+  },
+  "6d28fb3b": {
+    "src": "Новогодние ёлки и праздничное оформление | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html",
+      "christmas-decoration.html:og:title",
+      "christmas-decoration.html:twitter:title"
+    ]
+  },
+  "b1e44331": {
+    "src": "Производство, поставка и установка новогодних ёлок, световых арок, тоннелей, фотозон и праздничных инсталляций.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html:description",
+      "christmas-decoration.html:og:description",
+      "christmas-decoration.html:twitter:description"
+    ]
+  },
+  "727f9bd9": {
+    "src": "TPI LUX / направление 03",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "b1da8025": {
+    "src": "Реализуем праздничное оформление для городов, площадей, торговых центров и общественных пространств: концепция, комплектация, монтаж, безопасность и сезонное обслуживание.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "bc9caf95": {
+    "src": "Рассчитано на городскую среду",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "f7a3a056": {
+    "src": "Конструкции рассчитываются для городской среды: устойчивость, безопасные материалы, долговечность и готовность к сезонной нагрузке.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "d8ab1578": {
+    "src": "Городские ёлки",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "cf35bb20": {
+    "src": "Большие каркасные и модульные ёлки с декором, интегрированной подсветкой и решениями для крупных площадей.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "57ccc79a": {
+    "src": "Концепция оформления",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "3808ed38": {
+    "src": "Анализируем пространство, подбираем элементы декора и готовим визуальную идею праздничной среды.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "c1abadda": {
+    "src": "Декоративные элементы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "1ccc60ac": {
+    "src": "Крупные шары, световые элементы, ленты, тематические украшения и комплекты оформления.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "222c3d9a": {
+    "src": "Поставка конструкций",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "bbfe13d5": {
+    "src": "Комплектуем проект, организуем поставку, подготавливаем оборудование и контролируем качество.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "d7d66bfb": {
+    "src": "Монтаж инсталляций",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "5447b957": {
+    "src": "Сборка каркасов, монтаж света, подключение питания, проверка устойчивости и безопасности.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "2d6cb432": {
+    "src": "Демонтаж и хранение",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html",
+      "led-garlands-figures.html"
+    ]
+  },
+  "44c99371": {
+    "src": "Демонтаж после сезона, упаковка, хранение и подготовка конструкций к следующему периоду.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "2a7ec1f5": {
+    "src": "городские ёлки большой высоты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "a5bcc444": {
+    "src": "каркасные ёлки с декором",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "2be65049": {
+    "src": "световые арки",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "0d55d07d": {
+    "src": "световые тоннели",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "84316f63": {
+    "src": "декоративные фигуры",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "f6c75581": {
+    "src": "фотозоны",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "1f7f15df": {
+    "src": "новогодние шары",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "3d094d27": {
+    "src": "тематические инсталляции",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "f802b0d6": {
+    "src": "Планируете новогоднее оформление города или объекта? Разработаем концепцию и реализуем оформление под ключ.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "christmas-decoration.html"
+    ]
+  },
+  "eea0f43b": {
+    "src": "Климат и вентиляция | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html",
+      "climate-ventilation.html:og:title",
+      "climate-ventilation.html:twitter:title"
+    ]
+  },
+  "0011355d": {
+    "src": "Проектирование, поставка, монтаж и обслуживание вентиляции, кондиционирования, VRF/VRV, фанкойлов и чиллерных систем.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html:description",
+      "climate-ventilation.html:og:description",
+      "climate-ventilation.html:twitter:description"
+    ]
+  },
+  "2145f75a": {
+    "src": "TPI LUX / направление 07",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "3bfcb7cc": {
+    "src": "Системы вентиляции и кондиционирования",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "fa2d0ba5": {
+    "src": "Проектируем и монтируем климатические системы для зданий, общественных пространств и инфраструктурных объектов: вентиляция, кондиционирование, VRF/VRV, фанкойлы и сервис.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "f04e874f": {
+    "src": "Эксплуатация и энергоэффективность",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "97d6d56d": {
+    "src": "Климатические системы подбираются с учётом долгосрочной эксплуатации, стабильной работы и оптимального энергопотребления.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "9eada9ee": {
+    "src": "Системы вентиляции",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "79f58013": {
+    "src": "Приточные, вытяжные, приточно-вытяжные установки и системы воздухораспределения.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "a8462e7b": {
+    "src": "Проектирование климата",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "190b5af2": {
+    "src": "Анализ параметров здания, расчёт воздухообмена, подбор оборудования и проектная документация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "77fe5f1f": {
+    "src": "Кондиционирование",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "b29a537e": {
+    "src": "Сплит-системы, мультисплит, канальные кондиционеры, VRF и VRV системы.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "efd61688": {
+    "src": "Поставка оборудования",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "11e4288c": {
+    "src": "Подбор под задачи объекта, организация поставок, проверка качества и подготовка к монтажу.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "d26b9d89": {
+    "src": "Фанкойлы и чиллеры",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "ea151ab4": {
+    "src": "Централизованное охлаждение и климат-контроль для офисов, ТЦ, гостиниц и общественных помещений.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "8dc7ff71": {
+    "src": "Монтаж и сервис",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "677bcac3": {
+    "src": "Монтаж установок, воздуховодов, кондиционеров, фанкойлов, запуск, диагностика и обслуживание.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "7d966ede": {
+    "src": "приточная вентиляция",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "4cb40a63": {
+    "src": "вытяжные системы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "5b2ee69f": {
+    "src": "сплит-системы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "96c242c1": {
+    "src": "VRF и VRV",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "a0a17ed7": {
+    "src": "фанкойлы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "3800f30d": {
+    "src": "чиллерные системы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "6eeb7fb7": {
+    "src": "воздуховоды",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "825b5ff3": {
+    "src": "климатическое управление",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "adb82c46": {
+    "src": "Нужна вентиляция или кондиционирование? Подберём оборудование и реализуем инженерное решение под ключ.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "climate-ventilation.html"
+    ]
+  },
+  "5fecb3c9": {
+    "src": "Электромонтаж | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html",
+      "electrical-installation.html:og:title",
+      "electrical-installation.html:twitter:title"
+    ]
+  },
+  "f7150e0a": {
+    "src": "Проектирование, монтаж и обслуживание электрических систем для зданий, общественных пространств и городских объектов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html:description",
+      "electrical-installation.html:og:description",
+      "electrical-installation.html:twitter:description"
+    ]
+  },
+  "e5f133a1": {
+    "src": "TPI LUX / направление 04",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "b3bdc06e": {
+    "src": "Электромонтажные работы и электрическая инфраструктура",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "092ac286": {
+    "src": "Создаём электрическую инфраструктуру для освещения, инженерных систем, оборудования и конструкций: расчёты, кабельные линии, щиты, подключение и пусконаладка.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "d443b79f": {
+    "src": "Безопасность и стабильность",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "8b28cc37": {
+    "src": "Электрические решения проектируются с учётом безопасности, стабильной работы, сертифицированного оборудования и долгосрочной эксплуатации.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "9ea0df60": {
+    "src": "Кабельные линии и сети",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "a2832bd3": {
+    "src": "Силовые и распределительные линии, прокладка кабелей, монтаж трасс, коробов и точек подключения.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "c3d55379": {
+    "src": "Проектирование электросистем",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "c0661cec": {
+    "src": "Анализ потребления, расчёт нагрузок, схемы электроснабжения и техническая документация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "bdf10a3c": {
+    "src": "Электрощитовое оборудование",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "a22aa1a5": {
+    "src": "Распределительные щиты, силовые шкафы управления, защитная автоматика и защита от перегрузок.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "6247f4d4": {
+    "src": "Монтаж кабельных линий",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "4ee88c6a": {
+    "src": "Прокладка силовых кабелей, кабельных трасс, защитных коробов и организация подключений.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "006a0a7c": {
+    "src": "Питание оборудования",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "b21440f4": {
+    "src": "Электропитание освещения, инженерных систем, конструкций и оборудования объекта.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "66a7bb76": {
+    "src": "Пусконаладка и обслуживание",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "a7174e0c": {
+    "src": "Тестирование сетей, проверка нагрузки, диагностика оборудования и сервисная поддержка.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "039591aa": {
+    "src": "силовые кабельные линии",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "69836ca0": {
+    "src": "распределительные сети",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "eb9d23c6": {
+    "src": "электрощиты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "4c8cc298": {
+    "src": "силовые шкафы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "6cca65e4": {
+    "src": "защитная автоматика",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "a95bf141": {
+    "src": "кабельные трассы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "f2e56689": {
+    "src": "точки подключения",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "88735534": {
+    "src": "питание инженерных систем",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "4e2c02da": {
+    "src": "Нужна надёжная электрическая инфраструктура для объекта? Спроектируем и реализуем систему электроснабжения.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "electrical-installation.html"
+    ]
+  },
+  "2056ca73": {
+    "src": "Event &amp; Show Solutions | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "8dbac41b": {
+    "src": "Шоу дронов, временная инфраструктура, свет и техническое сопровождение мероприятий в Армении, Грузии и СНГ. Локальная команда TPI LUX для событий и шоу.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html:description"
+    ]
+  },
+  "ec46c044": {
+    "src": "Event & Show Solutions | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html:og:title",
+      "event-show-solutions.html:twitter:title"
+    ]
+  },
+  "861af7d8": {
+    "src": "Шоу дронов, временная инфраструктура, свет и техническое сопровождение мероприятий в Армении, Грузии и СНГ.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html:og:description",
+      "event-show-solutions.html:twitter:description"
+    ]
+  },
+  "dfe1babd": {
+    "src": "TPI LUX / направление 09",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "a4cfba0f": {
+    "src": "События, где идеи превращаются в реальность. TPI LUX — сервисный и технический партнёр для реализации мероприятий, шоу и временной инфраструктуры в Армении, Грузии и странах СНГ.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "ee1e461f": {
+    "src": "Смотреть направления",
+    "ka": "მიმართულებების ნახვა",
+    "en": "View services",
+    "ctx": [
+      "event-show-solutions.html",
+      "index.html"
+    ]
+  },
+  "e31475d0": {
+    "src": "Новый продукт для Грузии",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "17cb1784": {
+    "src": "Event &amp; Show",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "217d9c19": {
+    "src": "Мы подключаемся к проектам там, где важно снять часть организационной и технической нагрузки с команды заказчика и помочь довести событие до результата.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "01dd6830": {
+    "src": "Направления",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html",
+      "index.html"
+    ]
+  },
+  "e5b01257": {
+    "src": "От отдельных задач до комплексной поддержки мероприятий.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "199096a3": {
+    "src": "🚁 Дрон-шоу",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "63db1925": {
+    "src": "Поддержка реализации совместно с профильными партнёрами.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "2c692e91": {
+    "src": "уличные шоу дронов",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "e7be89e8": {
+    "src": "внутренние шоу дронов",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "9e97062f": {
+    "src": "специальные воздушные сценарии",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "6e674465": {
+    "src": "🎈 Воздушные и специальные объекты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "75a79762": {
+    "src": "Нестандартные воздушные конструкции под задачу события.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "694b756e": {
+    "src": "радиоуправляемые дирижабли",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "981befd6": {
+    "src": "авиамодели",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "77dd0b8e": {
+    "src": "кастомные воздушные конструкции",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "f1b73821": {
+    "src": "✨ Световые решения для мероприятий",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "42daafd7": {
+    "src": "Свет и декор для временного оформления пространств.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "20af2bd7": {
+    "src": "аренда гирлянд",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "7c14a294": {
+    "src": "аренда световых конструкций",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "b79baecd": {
+    "src": "изготовление нестандартного декора",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "2200f27c": {
+    "src": "временное оформление пространств",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "15f58f16": {
+    "src": "🔧 Техническое сопровождение",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "20351743": {
+    "src": "Полный технический цикл на площадке мероприятия.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "dda13dc6": {
+    "src": "монтаж и демонтаж",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "9a64465a": {
+    "src": "электромонтаж",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "4f05f2ef": {
+    "src": "техническая координация",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "513046fd": {
+    "src": "подбор оборудования",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "e914e95b": {
+    "src": "сопровождение мероприятия",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "846e7c6e": {
+    "src": "🌍 Локальная команда в Армении и Грузии",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "0eb5d4b6": {
+    "src": "Поддержка международных продакшенов на месте.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "09d5c887": {
+    "src": "помощь международным продакшенам",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "78f8a0fa": {
+    "src": "локальная координация",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "b49a8bb5": {
+    "src": "подключение специалистов на месте",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "0100a4ce": {
+    "src": "снижение организационной нагрузки",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "520d156c": {
+    "src": "Как мы можем подключиться",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "c68a25e9": {
+    "src": "Три формата участия в проекте",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "df9dfd45": {
+    "src": "Берём ровно ту часть, которая нужна вашему проекту.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "9a9b0895": {
+    "src": "01 — Как локальная команда",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "73a71924": {
+    "src": "Берём на себя технические задачи и работу на месте.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "4a193d48": {
+    "src": "02 — Как дополнительный подрядчик",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "cbf17462": {
+    "src": "Закрываем отдельные направления проекта.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "4c262cca": {
+    "src": "03 — Как единое окно",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "bc30781c": {
+    "src": "Координируем несколько технических процессов одновременно.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "49325146": {
+    "src": "Для кого это направление",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "1a85ca01": {
+    "src": "С кем мы работаем",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "9ff73152": {
+    "src": "Подключаемся к проектам любого масштаба — от частных до городских.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "4832dcd3": {
+    "src": "Event-агентства",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "f4ddefe0": {
+    "src": "Продакшены",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "0e13512d": {
+    "src": "Организаторы мероприятий",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "13445a67": {
+    "src": "Международные команды",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "089455aa": {
+    "src": "Частные и корпоративные заказчики",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "1c1495ca": {
+    "src": "Девелоперские и городские проекты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "5b6c0f2a": {
+    "src": "Что получает заказчик",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html",
+      "index.html"
+    ]
+  },
+  "08887128": {
+    "src": "Меньше организационной нагрузки — больше уверенности в результате",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "6728bd55": {
+    "src": "Подключаемся гибко и берём на себя техническую сторону события.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "ab9a3d59": {
+    "src": "Один подрядчик",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html",
+      "index.html"
+    ]
+  },
+  "c46ce107": {
+    "src": "Под несколько задач проекта.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "8e7d1bd9": {
+    "src": "Локальная поддержка",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "3f0ef0eb": {
+    "src": "Техническая команда на месте.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "42d29a1c": {
+    "src": "Меньше вопросов",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "618eec89": {
+    "src": "Снимаем организационную нагрузку.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "231a2576": {
+    "src": "Прозрачная коммуникация",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "8a2747cf": {
+    "src": "Понятный статус по всем этапам.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "a4af67c3": {
+    "src": "Гибкость в реализации",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "612aef86": {
+    "src": "Подстраиваемся под формат события.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "4292c795": {
+    "src": "Есть идея или нестандартный сценарий? Подключимся и предложим формат реализации.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "dbedc4ed": {
+    "src": "Расскажите задачу — предложим техническое решение и формат участия в вашем мероприятии.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "effc19bd": {
+    "src": "Событие часто требует связки света, гирлянд и технического сопровождения.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "event-show-solutions.html"
+    ]
+  },
+  "674e7dfb": {
+    "src": "TPI LUX | Световые решения и инженерные системы в Грузии",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "78f199dd": {
+    "src": "TPI LUX проектирует, поставляет, монтирует и обслуживает световые решения, инженерные системы и инфраструктурные проекты в Грузии. Один подрядчик — единый результат.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:description"
+    ]
+  },
+  "6950ca33": {
+    "src": "TPI LUX — световые решения и инженерные системы в Грузии",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:og:title",
+      "index.html:twitter:title"
+    ]
+  },
+  "f78176f0": {
+    "src": "Проектирование, производство, поставка, монтаж и сервис световых и инженерных систем. Один подрядчик — единый результат.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:og:description",
+      "index.html:twitter:description"
+    ]
+  },
+  "fdefcb8e": {
+    "src": "Georgia / Premium engineering service",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "cecebe59": {
+    "src": "Световые решения и инженерные системы для объектов в Грузии",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "81381a8a": {
+    "src": "Архитектурное освещение, праздничные инсталляции, электромонтаж, безопасность, климат и управление светом под ключ.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "c6fbdd6c": {
+    "src": "Получить консультацию",
+    "ka": "კონსულტაციის მიღება",
+    "en": "Get a consultation",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "cca1bb47": {
+    "src": "Ключевые преимущества",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:div@aria-label"
+    ]
+  },
+  "be66f2d0": {
+    "src": "Полный цикл",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "e140ee64": {
+    "src": "От концепции и расчётов до монтажа, запуска и сервиса.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "b294bd5b": {
+    "src": "Честная цена",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "bad1a85f": {
+    "src": "Премиальный уровень исполнения без лишней переплаты.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "6adf4788": {
+    "src": "Свет, электрика и инженерные системы в единой ответственности.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "0854a86a": {
+    "src": "Инженерно-производственная компания полного цикла",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "ac468f5f": {
+    "src": "TPI LUX — инженерно-производственная компания, реализующая световые, инфраструктурные и специальные технические проекты.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "3b4bffcf": {
+    "src": "Мы объединяем проектирование, производство, поставку, монтаж и техническое сопровождение в единую систему работы — чтобы клиент получал не набор отдельных услуг, а единый, управляемый процесс.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "4ac5f549": {
+    "src": "Работаем с частными, коммерческими и городскими проектами, помогая заказчикам получать прогнозируемый результат без лишней координации подрядчиков.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "f3f24385": {
+    "src": "Наш подход — высокий уровень продукта и сервиса без неоправданной стоимости. Мы берём ответственность не только за поставку, но и за результат.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "7d61c026": {
+    "src": "Почему нас выбирают",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "f8bb6e6a": {
+    "src": "Инженерная экспертиза",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "a3a013a1": {
+    "src": "Решаем стандартные и нестандартные технические задачи.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "a2a9557a": {
+    "src": "Комплексная реализация",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "79f71845": {
+    "src": "От идеи до запуска и сопровождения.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "8ad862e8": {
+    "src": "Международная команда",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "41741ce4": {
+    "src": "Опыт работы в нескольких странах и рынках.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "09dc2fae": {
+    "src": "Один подрядчик — единый результат",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "3227ff27": {
+    "src": "Минимум коммуникаций и контроль на каждом этапе.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "7e170d52": {
+    "src": "Наша философия",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "62e4ba47": {
+    "src": "Мы не продаём отдельные услуги. Мы собираем рабочие решения под конкретную задачу — объединяя опыт, технологии и реализацию в единую систему.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "b85f8e9f": {
+    "src": "Не усложняем процессы там, где можно сделать понятнее. Не упрощаем там, где важен результат.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "66113341": {
+    "src": "Когда к нам обращаются",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "518f363c": {
+    "src": "Нужно объединить несколько подрядчиков в одну команду.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "90390b69": {
+    "src": "Есть нестандартная задача или ограничения проекта.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "7a1f2d3d": {
+    "src": "Важны сроки, качество и ответственность.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "c1c4639a": {
+    "src": "Нужен результат, а не управление процессом.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "8610b20f": {
+    "src": "TPI LUX — новый стандарт реализации.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "41ef8bdc": {
+    "src": "TPI LUX в цифрах",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:section@aria-label",
+      "index.html"
+    ]
+  },
+  "8be806fa": {
+    "src": "Почему нам доверяют проекты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "1e70140b": {
+    "src": "Результат складывается из опыта, процессов и внимания к деталям.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "af203ef1": {
+    "src": "реализованных проектов",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "60981bf5": {
+    "src": "17 000 м²",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "f66848ae": {
+    "src": "оформленных и реализованных пространств",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "2c372c29": {
+    "src": "20+ лет",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "a5ff58a8": {
+    "src": "опыта команды",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "9f161fcd": {
+    "src": "6 стран",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "ec7d617b": {
+    "src": "география реализованных проектов",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "49c235b9": {
+    "src": "проектов завершены в согласованные сроки",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "e3421a3f": {
+    "src": "Не обещаем невозможное. Делаем так, чтобы результат совпадал с ожиданиями.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "0a5ccae4": {
+    "src": "Ключевая специализация",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "d0036cf3": {
+    "src": "Каждое направление открывается как отдельная страница с составом работ, решениями и заявкой.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "4c67a5fa": {
+    "src": "Концепция, расчёты, поставка, монтаж и настройка фасадного и паркового света.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "7e427795": {
+    "src": "Подробнее",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "f7085198": {
+    "src": "Уличные и интерьерные гирлянды, 2D/3D фигуры, динамические сценарии и сервис.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "dceff39a": {
+    "src": "Городские ёлки, световые арки, тоннели, фотозоны и сезонное обслуживание.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "a92a4816": {
+    "src": "Кабельные линии, щитовое оборудование, питание освещения и инженерных систем.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "59f919b8": {
+    "src": "DMX, контроллеры, централизованное управление, динамические световые сцены.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "b55a61ba": {
+    "src": "Видеонаблюдение, контроль доступа, СКС, интеграция и техническое обслуживание.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "839efdd0": {
+    "src": "Вентиляция, кондиционирование, VRF/VRV, фанкойлы, запуск и сервис систем.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "d206a705": {
+    "src": "Игровые комплексы, парковые элементы, производство, монтаж и обслуживание.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "6403f2b7": {
+    "src": "New",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "149aff21": {
+    "src": "Шоу дронов, временная инфраструктура, свет, техсопровождение и локальная команда в Армении и Грузии.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "479f1296": {
+    "src": "Решаем нестандартные задачи",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "04c9270f": {
+    "src": "Стандартные решения есть у многих. Инженерные — у единиц.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "30ea9123": {
+    "src": "Когда проект выходит за рамки типовых сценариев — подключается наша команда.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "62e45317": {
+    "src": "Нестандартные конструкции",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "357f494a": {
+    "src": "Проектируем и адаптируем решения под задачу.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "2782458a": {
+    "src": "Производство под проект",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "576629bd": {
+    "src": "Не подгоняем идею под ассортимент.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "89c83181": {
+    "src": "Сложные объекты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "4a7e9ba9": {
+    "src": "Работаем там, где важны точность и координация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "18018c44": {
+    "src": "Интеграция нескольких систем",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "b37d20d1": {
+    "src": "Свет, инженерия, инфраструктура — как единое решение.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "f392e36e": {
+    "src": "Сервис после реализации",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "6521a1c1": {
+    "src": "Не исчезаем после завершения работ.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "9264411e": {
+    "src": "Обсудить нестандартную задачу",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "1b2a7435": {
+    "src": "Один маршрут от идеи до сервиса",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "11f817df": {
+    "src": "Формат работы должен быть понятен заказчику до старта проекта.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "cbeaaa74": {
+    "src": "Проектирование",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "392e0a45": {
+    "src": "Анализ объекта, световая или инженерная концепция, расчёты и документация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "4503ea0b": {
+    "src": "Производство",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "870f78de": {
+    "src": "Изготовление конструкций и подготовка оборудования под задачу.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "6bf2f67b": {
+    "src": "Поставка",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "cfa40fcc": {
+    "src": "Комплектация проекта, логистика, проверка качества перед монтажом.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "8d2550b6": {
+    "src": "Монтаж",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "297cb0ac": {
+    "src": "Установка, подключение, соблюдение требований безопасности и сроков.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "9443461c": {
+    "src": "Пуско-наладка",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "29422076": {
+    "src": "Тестирование, настройка режимов, программирование сценариев.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "8149459e": {
+    "src": "Сервис",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html",
+      "led-garlands-figures.html"
+    ]
+  },
+  "e93123de": {
+    "src": "Обслуживание, диагностика, сезонные работы и поддержка эксплуатации.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "dd4372fb": {
+    "src": "География работы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "9ad1f726": {
+    "src": "Работаем локально. Реализуем масштабно.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "26cb9523": {
+    "src": "Где бы ни находился проект — подход остаётся одинаковым.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "3331c05d": {
+    "src": "📍 Грузия",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "33edc158": {
+    "src": "📍 Армения",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "ea5781ff": {
+    "src": "📍 СНГ",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "02a51b3a": {
+    "src": "Локальная команда",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "ff0ceac3": {
+    "src": "Международный опыт",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "9e3bb0f7": {
+    "src": "Быстрое подключение к проектам",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "c046ba52": {
+    "src": "Единый стандарт реализации",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "dfb584f7": {
+    "src": "Формирование стоимости",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:section@aria-label"
+    ]
+  },
+  "09df6dba": {
+    "src": "Как мы формируем стоимость",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "d6a1819f": {
+    "src": "Понятная стоимость без неприятных сюрпризов",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "f194f9a2": {
+    "src": "Чем точнее подготовка — тем спокойнее реализация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "30f54f08": {
+    "src": "Предварительная оценка",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "0045a4da": {
+    "src": "Понимаем задачу и формируем ориентир.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "31a5ad9a": {
+    "src": "Технический расчёт",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "16d3c476": {
+    "src": "Уточняем решения и объём работ.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "de832b3d": {
+    "src": "Фиксация стоимости",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "9e2c1129": {
+    "src": "Согласовываем и закрепляем бюджет.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "f24a1416": {
+    "src": "Реализация проекта",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "6bc435fb": {
+    "src": "Работаем по утверждённому плану.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "0439c1f6": {
+    "src": "Максимально точный расчёт ещё до начала работ.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "437abf49": {
+    "src": "Меньше управления подрядчиками — больше контроля над результатом",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "c0be0126": {
+    "src": "Мы берём на себя координацию, чтобы вы могли сосредоточиться на результате.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "74ffa350": {
+    "src": "Единая команда вместо нескольких исполнителей.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "6f760908": {
+    "src": "Один ответственный",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "907b9cb9": {
+    "src": "Понятная коммуникация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "5717e7e7": {
+    "src": "Один график",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "af297a4c": {
+    "src": "Синхронизация всех этапов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "3d46e004": {
+    "src": "Один бюджет",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "47589bfc": {
+    "src": "Без постоянного пересогласования.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "ed0b71c8": {
+    "src": "Один сервис",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "b6187eec": {
+    "src": "От идеи до завершения проекта.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "e982c25d": {
+    "src": "Объекты, для которых подходит TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "fa7a9d3e": {
+    "src": "После отбора фотографий этот блок станет витриной реальных кейсов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "966d7351": {
+    "src": "Городские пространства",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "d8dc7bb1": {
+    "src": "Площади, парки, улицы, сезонное оформление и инфраструктурный свет.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "ce3f53c5": {
+    "src": "Коммерческие объекты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "fa9d1f0c": {
+    "src": "Фасады, входные группы, торговые пространства, рестораны и отели.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "b83d9fed": {
+    "src": "Частные проекты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "8956690b": {
+    "src": "Ландшафтный свет, праздничное оформление, инженерные системы для домов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "a524cdda": {
+    "src": "Получить концепцию",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "77b408f5": {
+    "src": "Начните не с расчёта — начните с идеи",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "3918c5aa": {
+    "src": "Расскажите задачу — предложим концепцию реализации, подход и возможные сценарии проекта.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "ea9e4ee8": {
+    "src": "Для частных, коммерческих и инфраструктурных проектов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "ea664a09": {
+    "src": "Обсудим ваш проект",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "c53b4445": {
+    "src": "Подготовим техническое решение, варианты реализации и коммерческое предложение под объект в Грузии.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "b336fc55": {
+    "src": "WhatsApp",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "edbea9ff": {
+    "src": "Telegram",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "aee78fe8": {
+    "src": "Имя",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "1af87586": {
+    "src": "Как к вам обращаться",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:input@placeholder"
+    ]
+  },
+  "62f220e3": {
+    "src": "Контакт",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "6c6374f5": {
+    "src": "Телефон, WhatsApp или email",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:input@placeholder"
+    ]
+  },
+  "4a19af34": {
+    "src": "Задача",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "f30a42fa": {
+    "src": "Коротко опишите объект или направление",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html:textarea@placeholder"
+    ]
+  },
+  "7d2ea8e0": {
+    "src": "Отправить заявку",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "8e2d621d": {
+    "src": "Мы свяжемся с вами в течение рабочего дня. Можно сразу написать в WhatsApp или Telegram.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "index.html"
+    ]
+  },
+  "42bfc8fe": {
+    "src": "Светодиодные гирлянды и фигуры | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html",
+      "led-garlands-figures.html:og:title",
+      "led-garlands-figures.html:twitter:title"
+    ]
+  },
+  "1e295e9c": {
+    "src": "Производство, поставка, монтаж и обслуживание светодиодных гирлянд, 2D и 3D фигур для городских пространств.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html:description",
+      "led-garlands-figures.html:og:description",
+      "led-garlands-figures.html:twitter:description"
+    ]
+  },
+  "29f9e927": {
+    "src": "TPI LUX / направление 02",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "5ab5da2d": {
+    "src": "Светодиодные гирлянды и световые фигуры",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "660aa40e": {
+    "src": "Создаём световые конструкции для улиц, площадей, фасадов, парков и мероприятий: от подбора оборудования до монтажа, сценариев, демонтажа и сезонного хранения.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "3ac71da6": {
+    "src": "Инженерия, а не только декор",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "00e1690b": {
+    "src": "Подход инженерный, а не только декоративный: каждая конструкция должна выглядеть ярко, безопасно работать и выдерживать реальную эксплуатацию.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "c7bb0c48": {
+    "src": "Подбор под объект",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "a74efb26": {
+    "src": "Рассчитываем количество элементов, яркость, типы гирлянд и конструкций под задачу, масштаб и бюджет.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "63bd95ee": {
+    "src": "Производство и изготовление",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "2145fe0b": {
+    "src": "Изготавливаем световые фигуры, индивидуальные конструкции и декоративные элементы с контролем качества.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "6237ccf2": {
+    "src": "Устанавливаем конструкции любой сложности, подключаем, тестируем и соблюдаем требования безопасности.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "e2ed6911": {
+    "src": "Управление светом",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "fee705ed": {
+    "src": "Настраиваем статические и динамические сценарии, синхронизацию эффектов и интеграцию с контроллерами.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "26e535f3": {
+    "src": "Аккуратно демонтируем оборудование, организуем хранение и подготовку к повторному монтажу.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "08c40d99": {
+    "src": "Регламентное обслуживание, ремонт, замена элементов и поддержка в период эксплуатации.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "78275731": {
+    "src": "уличные гирлянды",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "d792075b": {
+    "src": "интерьерные гирлянды",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "f502f160": {
+    "src": "контурные и линейные решения",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "9b8b8231": {
+    "src": "динамические гирлянды",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "bd5c2fb1": {
+    "src": "праздничные фигуры",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "3d0dbf1c": {
+    "src": "городские арт-объекты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "8e3a9a19": {
+    "src": "2D конструкции",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "e333afbd": {
+    "src": "3D конструкции",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "c9ac6c36": {
+    "src": "Планируете световое оформление улицы, фасада или общественного пространства? Соберём решение под объект.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "led-garlands-figures.html"
+    ]
+  },
+  "7f26aef8": {
+    "src": "Системы управления светом | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html",
+      "lighting-control.html:og:title",
+      "lighting-control.html:twitter:title"
+    ]
+  },
+  "580d10b8": {
+    "src": "DMX, контроллеры, централизованное управление и динамические сценарии для фасадов, городских пространств и инсталляций.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html:description",
+      "lighting-control.html:og:description",
+      "lighting-control.html:twitter:description"
+    ]
+  },
+  "0f75b7eb": {
+    "src": "TPI LUX / направление 05",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "fe1a17c9": {
+    "src": "Системы управления архитектурным и декоративным освещением",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "3d11a73f": {
+    "src": "Проектируем интеллектуальные системы управления светом для фасадов, городских пространств и световых инсталляций. Настраиваем логику работы, сценарии и интеграции.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "7b163f0d": {
+    "src": "Управляемый, а не только эффектный свет",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "c1784d6a": {
+    "src": "Сценарии света должны быть не только эффектными, но и управляемыми: понятная логика, стабильное подключение и проверенная архитектура системы.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "a9f86402": {
+    "src": "Архитектура управления",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "c71f8b18": {
+    "src": "Определяем группы освещения, логику работы, контроллеры, схемы подключения и документацию.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "910810bf": {
+    "src": "DMX контроллеры",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "47fbe7f9": {
+    "src": "Профессиональное управление большим количеством светильников, динамическими сценами и синхронизацией.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "1d23bf42": {
+    "src": "Монтаж оборудования",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "7eac5a31": {
+    "src": "Установка контроллеров, подключение оборудования, интеграция со световыми системами и тестирование.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "25bf1fd5": {
+    "src": "Централизованное управление",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "ba905f8f": {
+    "src": "Управление группами светильников, автоматическое включение, удалённый доступ и интеграция со зданием.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "b0fe8c25": {
+    "src": "контроллеры управления светом",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "aa19d2e4": {
+    "src": "динамические световые сцены",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "f2f9d2b8": {
+    "src": "группы светильников",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "ba0a3470": {
+    "src": "удалённое управление",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "67b78143": {
+    "src": "автоматическое включение",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "0cb29325": {
+    "src": "схемы подключения",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "49a3b2cd": {
+    "src": "интеграция систем",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "ce934393": {
+    "src": "Нужны динамические сценарии или централизованное управление светом? Спроектируем систему и настроим режимы.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "lighting-control.html"
+    ]
+  },
+  "8d35a36e": {
+    "src": "Детские площадки и благоустройство | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html",
+      "playgrounds-urban.html:og:title",
+      "playgrounds-urban.html:twitter:title"
+    ]
+  },
+  "5f692950": {
+    "src": "Производство, поставка и установка детских площадок, игровых комплексов и парковой мебели для городских пространств.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html:description",
+      "playgrounds-urban.html:og:description",
+      "playgrounds-urban.html:twitter:description"
+    ]
+  },
+  "60ce605e": {
+    "src": "TPI LUX / направление 08",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "e65cd99a": {
+    "src": "Детские игровые площадки и элементы благоустройства",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "02a03917": {
+    "src": "Проектируем, производим и устанавливаем детские площадки, игровые элементы и парковую мебель для дворов, парков и общественных территорий.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "1cd7e444": {
+    "src": "Прочность и безопасные материалы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "8e77ede4": {
+    "src": "Конструкции рассчитаны на общественную эксплуатацию: прочность, погодная устойчивость, безопасные материалы и обслуживание.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "03a26b61": {
+    "src": "Детские площадки",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "14ac4b57": {
+    "src": "Игровые комплексы, горки, башни, качели, карусели, канатные элементы и лазалки.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "8f220ada": {
+    "src": "Проектирование зон",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "6531b663": {
+    "src": "Анализ территории, планирование активности, подбор оборудования и проектная документация.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "81be73af": {
+    "src": "Игровые элементы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "1c1f3663": {
+    "src": "Балансиры, пружинные качалки, песочницы, игровые панели и отдельные малые формы.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "6dc2bbee": {
+    "src": "Производство конструкций",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "3244a15e": {
+    "src": "Металлические конструкции, декоративные элементы, подготовка оборудования и контроль качества.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "c23ae2e5": {
+    "src": "Парковая мебель",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "ba081003": {
+    "src": "Скамейки, лавочки, урны, столы, зоны отдыха и декоративные элементы благоустройства.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "370d9e91": {
+    "src": "Монтаж и обслуживание",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "98526fb0": {
+    "src": "Подготовка основания, установка, крепления, проверка безопасности, осмотры и ремонт элементов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "32564f09": {
+    "src": "игровые комплексы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "f695e92b": {
+    "src": "горки и башни",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "9863af87": {
+    "src": "качели и карусели",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "282418fa": {
+    "src": "канатные элементы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "7cd60b7c": {
+    "src": "балансиры",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "f4ff16a8": {
+    "src": "песочницы",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "892cfa32": {
+    "src": "скамейки и лавочки",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "47fc025d": {
+    "src": "урны и зоны отдыха",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "237eb6d0": {
+    "src": "Планируете благоустройство парка, двора или общественной территории? Подготовим проект и установим оборудование.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "playgrounds-urban.html"
+    ]
+  },
+  "a1e3cc47": {
+    "src": "Безопасность и слаботочные сети | TPI LUX",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html",
+      "security-low-voltage.html:og:title",
+      "security-low-voltage.html:twitter:title"
+    ]
+  },
+  "437cac1b": {
+    "src": "Проектирование и внедрение видеонаблюдения, контроля доступа, СКС и слаботочных сетей для объектов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html:description",
+      "security-low-voltage.html:og:description",
+      "security-low-voltage.html:twitter:description"
+    ]
+  },
+  "6e17a77f": {
+    "src": "TPI LUX / направление 06",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "7f72192f": {
+    "src": "Системы безопасности и слаботочная инфраструктура",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "62c359c4": {
+    "src": "Внедряем системы безопасности, контроля доступа и слаботочные сети для зданий, общественных пространств и инфраструктурных объектов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "79ef5fb7": {
+    "src": "Единая инфраструктура контроля",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "44c4724d": {
+    "src": "Системы можно объединять в единую инфраструктуру управления безопасностью, чтобы объект контролировался централизованно.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "97060a13": {
+    "src": "Видеонаблюдение",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "c41c9d95": {
+    "src": "Уличные и внутренние камеры, запись и хранение данных, удалённый мониторинг и видеоаналитика.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "ba0ad27a": {
+    "src": "Монтаж наблюдения",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "9d4fa2c6": {
+    "src": "Установка камер, прокладка кабельных линий, настройка записи и подключение удалённого доступа.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "00489f8d": {
+    "src": "Проектирование безопасности",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "8bd692a1": {
+    "src": "Анализ территории, схемы размещения оборудования, документация и выбор архитектуры системы.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "59cfc2d3": {
+    "src": "Контроль доступа",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "b3b1b6ff": {
+    "src": "Турникеты, электронные замки, считыватели, контроллеры и системы учёта прохода.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "44dfbaa4": {
+    "src": "Слаботочные сети",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "58a7f03b": {
+    "src": "Структурированные кабельные системы, сети передачи данных, коммуникационные линии и распределение сигналов.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "f86282f9": {
+    "src": "Интеграция и сервис",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "6cfc781d": {
+    "src": "Объединение видеонаблюдения и доступа, уведомления, мониторинг, диагностика и обслуживание.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "55824760": {
+    "src": "камеры наблюдения",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "78102470": {
+    "src": "системы записи",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "b7c35af4": {
+    "src": "удалённый мониторинг",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "9020a99c": {
+    "src": "турникеты",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "a8b037c9": {
+    "src": "электронные замки",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "1d91641a": {
+    "src": "считыватели карт",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "3270b48c": {
+    "src": "СКС",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "5240e7ed": {
+    "src": "коммуникационные линии",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "b1a4babd": {
+    "src": "Нужна система безопасности для объекта? Разработаем и внедрим видеонаблюдение, доступ и слаботочные сети.",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "security-low-voltage.html"
+    ]
+  },
+  "bce1786a": {
+    "src": "Закрыть меню",
+    "ka": "მენიუს დახურვა",
+    "en": "Close menu",
+    "ctx": [
+      "script.js"
+    ]
+  },
+  "1c50eede": {
+    "src": "Заявка принята — мы свяжемся с вами",
+    "ka": "",
+    "en": "",
+    "ctx": [
+      "script.js"
+    ]
+  }
+}

@@ -35,7 +35,7 @@ if (heroVideo) {
 if (menuToggle && mainNav) {
   const setExpanded = (open) => {
     menuToggle.setAttribute('aria-expanded', String(open));
-    menuToggle.setAttribute('aria-label', open ? 'Закрыть меню' : 'Открыть меню');
+    menuToggle.setAttribute('aria-label', open ? '{{bce1786a}}' : '{{72374bf6}}');
   };
 
   menuToggle.addEventListener('click', () => {
@@ -58,7 +58,7 @@ if (contactForm) {
     if (!button) return;
 
     const originalText = button.textContent;
-    button.textContent = 'Заявка принята — мы свяжемся с вами';
+    button.textContent = '{{1c50eede}}';
     button.disabled = true;
 
     window.setTimeout(() => {

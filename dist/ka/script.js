@@ -35,7 +35,7 @@ if (heroVideo) {
 if (menuToggle && mainNav) {
   const setExpanded = (open) => {
     menuToggle.setAttribute('aria-expanded', String(open));
-    menuToggle.setAttribute('aria-label', open ? 'Закрыть меню' : 'Открыть меню');
+    menuToggle.setAttribute('aria-label', open ? 'მენიუს დახურვა' : 'მენიუს გახსნა');
   };
 
   menuToggle.addEventListener('click', () => {
