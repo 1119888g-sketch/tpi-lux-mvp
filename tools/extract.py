@@ -187,19 +187,21 @@ def main() -> int:
     payload = {k: v for k, v in ex.strings.items()}
     out_path = I18N_DIR / "strings.json"
 
-    # Перевод, уже сделанный ранее, не затираем.
+    # Перевод и статусы вычитки, сделанные ранее, не затираем.
+    # Заново вычисляются только src и ctx — всё остальное переносится как есть,
+    # иначе повторный запуск стирал бы отметки носителя о вычитке.
     if out_path.exists():
         old = json.loads(out_path.read_text(encoding="utf-8"))
         kept = 0
         for key, entry in payload.items():
             prev = old.get(key)
-            if prev:
-                entry["ka"] = prev.get("ka", "")
-                entry["en"] = prev.get("en", "")
-                if prev.get("note"):
-                    entry["note"] = prev["note"]
-                kept += 1
-        print(f"\nсохранил переводы для {kept} строк из прежнего словаря")
+            if not prev:
+                continue
+            for field, value in prev.items():
+                if field not in ("src", "ctx"):
+                    entry[field] = value
+            kept += 1
+        print(f"\nсохранил переводы и статусы для {kept} строк из прежнего словаря")
 
     out_path.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"

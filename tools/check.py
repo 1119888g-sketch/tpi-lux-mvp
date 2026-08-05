@@ -123,7 +123,7 @@ def main() -> int:
             if not text:
                 continue
             coverage[lang] += 1
-            if entry.get("st") == "draft":
+            if entry.get(f"st_{lang}", "draft") == "draft":
                 drafts[lang] += 1
 
             check_entities(key, lang, text, src, rep)
