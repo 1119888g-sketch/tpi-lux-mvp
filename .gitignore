@@ -2,3 +2,6 @@
 design-*.png
 .DS_Store
 assets/_orig/
+.venv-xlsx/
+.mt/
+tools/__pycache__/

@@ -33,6 +33,23 @@ def term_pattern(ru: str) -> re.Pattern:
     return re.compile(r"\b" + r"\W+".join(parts), re.IGNORECASE)
 
 
+# Грузинский агглютинативен: ღონისძიება в родительном множественного даёт
+# ღონისძიებების — точной подстроки термина в тексте уже нет. Поэтому ищем
+# основу без хвостовых гласных, иначе аудит тонет в ложных срабатываниях.
+GEO_VOWELS = "აეიოუ"
+
+
+def geo_stem(word: str) -> str:
+    while len(word) > 4 and word[-1] in GEO_VOWELS:
+        word = word[:-1]
+    return word
+
+
+def term_in_translation(term_ka: str, text: str) -> bool:
+    words = [w for w in re.split(r"\W+", term_ka) if w]
+    return all(geo_stem(w) in text for w in words) if words else True
+
+
 def load():
     g = json.loads(GLOSSARY.read_text(encoding="utf-8"))
     s = json.loads(STRINGS.read_text(encoding="utf-8"))
@@ -138,7 +155,7 @@ def audit(terms, strings):
         for t in terms:
             if t["status"] == "check":
                 continue
-            if term_pattern(t["ru"]).search(entry["src"]) and t["ka"] not in ka:
+            if term_pattern(t["ru"]).search(entry["src"]) and not term_in_translation(t["ka"], ka):
                 misses.append((key, t["ru"], t["ka"], entry["src"][:60]))
 
     if not misses:
