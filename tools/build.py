@@ -52,6 +52,15 @@ CANONICAL_RE = re.compile(r"(<link\b[^>]*\brel\s*=\s*[\"']canonical[\"'][^>]*\bh
 OG_URL_RE = re.compile(r"(<meta\b[^>]*\bproperty\s*=\s*[\"']og:url[\"'][^>]*\bcontent\s*=\s*[\"'])[^\"']*([\"'])")
 OG_LOCALE_RE = re.compile(r"(<meta\b[^>]*\bproperty\s*=\s*[\"']og:locale[\"'][^>]*\bcontent\s*=\s*[\"'])[^\"']*([\"'])")
 
+# Картинку превью тоже собираем из SITE_URL. Иначе при смене домена ссылка
+# на og-cover осталась бы на старом адресе и превью в мессенджерах молча
+# перестало бы грузиться — заметить это без специальной проверки нельзя.
+IMAGE_RES = (
+    re.compile(r"(<meta\b[^>]*\bproperty\s*=\s*[\"']og:image[\"'][^>]*\bcontent\s*=\s*[\"'])[^\"']*([\"'])"),
+    re.compile(r"(<meta\b[^>]*\bname\s*=\s*[\"']twitter:image[\"'][^>]*\bcontent\s*=\s*[\"'])[^\"']*([\"'])"),
+)
+OG_IMAGE_PATH = "/assets/og-cover.jpg"
+
 
 def load_strings() -> dict:
     return json.loads(STRINGS.read_text(encoding="utf-8"))
@@ -94,6 +103,10 @@ def localise_head(html: str, lang: str, page: str) -> str:
     html = HTML_LANG_RE.sub(rf"\g<1>{lang}\g<2>", html, count=1)
     html = CANONICAL_RE.sub(lambda m: m.group(1) + page_url + m.group(2), html, count=1)
     html = OG_URL_RE.sub(lambda m: m.group(1) + page_url + m.group(2), html, count=1)
+
+    image_url = SITE_URL + OG_IMAGE_PATH
+    for pattern in IMAGE_RES:
+        html = pattern.sub(lambda m: m.group(1) + image_url + m.group(2), html, count=1)
 
     if OG_LOCALE_RE.search(html):
         html = OG_LOCALE_RE.sub(
