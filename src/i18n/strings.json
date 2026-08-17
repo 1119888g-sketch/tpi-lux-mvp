@@ -40,7 +40,7 @@
       "security-low-voltage.html:nav@aria-label"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "cb1c054b": {
     "src": "Услуги",
@@ -78,7 +78,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "b90d9f72": {
     "src": "Проекты",
@@ -116,7 +116,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "dba0fcb2": {
     "src": "Контакты",
@@ -192,7 +192,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "c294dda4": {
     "src": "TPI LUX / направление 01",
@@ -202,7 +202,7 @@
       "architectural-lighting.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "a7d95f67": {
     "src": "Архитектурное и ландшафтное освещение",
@@ -231,11 +231,11 @@
       "architectural-lighting.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "1840e490": {
     "src": "Смотреть состав работ",
-    "ka": "იხილეთ სამუშაოთა მოცულობა",
+    "ka": "იხილეთ სამუშაო შემადგენლობა",
     "en": "See scope of work",
     "ctx": [
       "architectural-lighting.html",
@@ -248,7 +248,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "native"
   },
   "8072862a": {
     "src": "Принцип TPI LUX",
@@ -320,7 +320,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "c30ca591": {
     "src": "Структура собрана из рабочего материала и приведена к формату коммерческой страницы.",
@@ -371,13 +371,14 @@
   },
   "61ff91c5": {
     "src": "Светотехнические расчёты, схемы размещения оборудования, кабельные трассы и проектная документация.",
-    "ka": "შუქტექნიკური გაანგარიშებები, აღჭურვილობის განლაგების სქემები, საკაბელო ტრასები და საპროექტო დოკუმენტაცია.",
+    "ka": "ტექგანათების გაანგარიშებები, აღჭურვილობის განლაგების სქემები, საკაბელო ტრასები და საპროექტო დოკუმენტაცია.",
     "en": "Lighting calculations, equipment layout drawings, cable routes and design documentation.",
     "ctx": [
       "architectural-lighting.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "e367cacc": {
     "src": "Подбор и поставка оборудования",
@@ -428,7 +429,7 @@
       "architectural-lighting.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "eff7fdfb": {
     "src": "Статические и динамические режимы, акцентные сцены, интеграция с системами управления светом.",
@@ -552,7 +553,7 @@
       "architectural-lighting.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "e01e5614": {
     "src": "освещение дорожек",
@@ -623,7 +624,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "650bf4ca": {
     "src": "Команда работает с крупными объектами, где важны сроки, безопасность, контроль качества и понятная коммуникация.",
@@ -657,7 +658,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "ca87acdc": {
     "src": "Заявка",
@@ -675,7 +676,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "7813ddf5": {
     "src": "Нужна система освещения для здания, парка или территории? Подготовим концепцию, оборудование и план реализации.",
@@ -755,7 +756,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "3abacd40": {
     "src": "Можно объединить в один проект",
@@ -777,7 +778,7 @@
   },
   "aa69c3d7": {
     "src": "Большинство объектов требует связки света, электрики, управления и сервиса.",
-    "ka": "ობიექტების უმეტესობა მოითხოვს განათების, ელექტრობის, მართვისა და სერვისის შეკავშირებას.",
+    "ka": "ობიექტის უმეტესობა მოითხოვს განათების, ელექტრობის, მართვისა და სერვისის ერთობლიობას",
     "en": "Most sites need lighting, electrical work, control and maintenance tied together.",
     "ctx": [
       "architectural-lighting.html",
@@ -790,11 +791,11 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "native"
   },
   "0c6ee814": {
     "src": "Светодиодные гирлянды и фигуры",
-    "ka": "შუქდიოდური გირლანდები და ფიგურები",
+    "ka": "დიოდური გირლანდები და ფიგურები",
     "en": "LED garlands and figures",
     "ctx": [
       "architectural-lighting.html",
@@ -809,7 +810,8 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "dd3e8546": {
     "src": "Новогодние ёлки и праздничное оформление",
@@ -847,7 +849,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "1b8e3adb": {
     "src": "Все направления",
@@ -865,7 +867,7 @@
       "security-low-voltage.html:nav@aria-label"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "678dba37": {
     "src": "Электромонтаж",
@@ -907,7 +909,7 @@
   },
   "3318ea32": {
     "src": "Безопасность и слаботочные сети",
-    "ka": "უსაფრთხოება და სუსტი დენების ქსელები",
+    "ka": "უსაფრთხოება და დაბალი ძაბვის ქსელები",
     "en": "Security and low-voltage systems",
     "ctx": [
       "architectural-lighting.html",
@@ -922,7 +924,8 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "47586a62": {
     "src": "Климат и вентиляция",
@@ -1029,7 +1032,7 @@
       "christmas-decoration.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "b1da8025": {
     "src": "Реализуем праздничное оформление для городов, площадей, торговых центров и общественных пространств: концепция, комплектация, монтаж, безопасность и сезонное обслуживание.",
@@ -1043,23 +1046,24 @@
   },
   "bc9caf95": {
     "src": "Рассчитано на городскую среду",
-    "ka": "გათვლილია ურბანულ გარემოზე",
+    "ka": "გათვლილია ქალაქის გარემოზე",
     "en": "Built for the urban environment",
     "ctx": [
       "christmas-decoration.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "native"
   },
   "f7a3a056": {
     "src": "Конструкции рассчитываются для городской среды: устойчивость, безопасные материалы, долговечность и готовность к сезонной нагрузке.",
-    "ka": "კონსტრუქციები გათვლილია ურბანული გარემოსთვის: მდგრადობა, უსაფრთხო მასალები, ხანგრძლივი ვადა და მზადყოფნა სეზონური დატვირთვისთვის.",
+    "ka": "კონსტრუქციები გათვლილია საქალაქო გარემოსთვის: მდგრადობა, უსაფრთხო მასალები, ხანგრძლივი ვადა და მზადყოფნა სეზონური დატვირთვისთვის.",
     "en": "Structures are engineered for the urban environment: stability, safe materials, durability and readiness for seasonal loads.",
     "ctx": [
       "christmas-decoration.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "d8ab1578": {
     "src": "Городские ёлки",
@@ -1190,7 +1194,7 @@
       "christmas-decoration.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "a5bcc444": {
     "src": "каркасные ёлки с декором",
@@ -1264,13 +1268,14 @@
   },
   "f802b0d6": {
     "src": "Планируете новогоднее оформление города или объекта? Разработаем концепцию и реализуем оформление под ключ.",
-    "ka": "გეგმავთ ქალაქის ან ობიექტის საახალწლო გაფორმებას? შევიმუშავებთ კონცეფციას და სრული ციკლით განვახორციელებთ გაფორმებას.",
+    "ka": "გეგმავთ ქალაქის ან ობიექტის საახალწლო გაფორმებას? შევიმუშავებთ კონცეფციას და სრული მომსახურეობით განვახორციელებთ გაფორმებას.",
     "en": "Planning festive decoration for a city or a site? We will develop the concept and deliver the decoration turnkey.",
     "ctx": [
       "christmas-decoration.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "eea0f43b": {
     "src": "Климат и вентиляция | TPI LUX",
@@ -1304,7 +1309,7 @@
       "climate-ventilation.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "3bfcb7cc": {
     "src": "Системы вентиляции и кондиционирования",
@@ -1548,13 +1553,14 @@
   },
   "adb82c46": {
     "src": "Нужна вентиляция или кондиционирование? Подберём оборудование и реализуем инженерное решение под ключ.",
-    "ka": "გჭირდებათ ვენტილაცია ან კონდიცირება? შევარჩევთ აღჭურვილობას და საინჟინრო გადაწყვეტას სრული ციკლით განვახორციელებთ.",
+    "ka": "გჭირდებათ ვენტილაცია ან კონდიცირება? შევარჩევთ აღჭურვილობას და საინჟინრო გადაწყვეტას სრული მომსახურეობით განვახორციელებთ.",
     "en": "Need ventilation or air conditioning? We will select the equipment and deliver the engineering solution turnkey.",
     "ctx": [
       "climate-ventilation.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "5fecb3c9": {
     "src": "Электромонтаж | TPI LUX",
@@ -1678,7 +1684,7 @@
       "electrical-installation.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "a22aa1a5": {
     "src": "Распределительные щиты, силовые шкафы управления, защитная автоматика и защита от перегрузок.",
@@ -1728,7 +1734,7 @@
       "electrical-installation.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "66a7bb76": {
     "src": "Пусконаладка и обслуживание",
@@ -1888,7 +1894,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "a4cfba0f": {
     "src": "События, где идеи превращаются в реальность. TPI LUX — сервисный и технический партнёр для реализации мероприятий, шоу и временной инфраструктуры в Армении, Грузии и странах СНГ.",
@@ -1909,7 +1915,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "e31475d0": {
     "src": "Новый продукт для Грузии",
@@ -1989,7 +1995,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "e7be89e8": {
     "src": "внутренние шоу дронов",
@@ -1999,7 +2005,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "9e97062f": {
     "src": "специальные воздушные сценарии",
@@ -2059,7 +2065,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "f1b73821": {
     "src": "✨ Световые решения для мероприятий",
@@ -2109,7 +2115,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "2200f27c": {
     "src": "временное оформление пространств",
@@ -2189,7 +2195,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "846e7c6e": {
     "src": "🌍 Локальная команда в Армении и Грузии",
@@ -2209,7 +2215,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "09d5c887": {
     "src": "помощь международным продакшенам",
@@ -2219,7 +2225,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "78f8a0fa": {
     "src": "локальная координация",
@@ -2249,7 +2255,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "520d156c": {
     "src": "Как мы можем подключиться",
@@ -2259,7 +2265,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "c68a25e9": {
     "src": "Три формата участия в проекте",
@@ -2269,7 +2275,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "df9dfd45": {
     "src": "Берём ровно ту часть, которая нужна вашему проекту.",
@@ -2303,13 +2309,14 @@
   },
   "4a193d48": {
     "src": "02 — Как дополнительный подрядчик",
-    "ka": "02 — როგორც დამატებითი მენარდე",
+    "ka": "02 — როგორც დამატებითი კონტრაქტორი",
     "en": "02 — As an additional contractor",
     "ctx": [
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "cbf17462": {
     "src": "Закрываем отдельные направления проекта.",
@@ -2319,7 +2326,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "4c262cca": {
     "src": "03 — Как единое окно",
@@ -2329,7 +2336,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "bc30781c": {
     "src": "Координируем несколько технических процессов одновременно.",
@@ -2349,7 +2356,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "1a85ca01": {
     "src": "С кем мы работаем",
@@ -2379,7 +2386,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "f4ddefe0": {
     "src": "Продакшены",
@@ -2464,14 +2471,15 @@
   },
   "ab9a3d59": {
     "src": "Один подрядчик",
-    "ka": "ერთი მენარდე",
+    "ka": "ერთი კონტრაქტორი",
     "en": "One contractor",
     "ctx": [
       "event-show-solutions.html",
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "c46ce107": {
     "src": "Под несколько задач проекта.",
@@ -2481,7 +2489,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "8e7d1bd9": {
     "src": "Локальная поддержка",
@@ -2521,7 +2529,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "231a2576": {
     "src": "Прозрачная коммуникация",
@@ -2541,7 +2549,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "a4af67c3": {
     "src": "Гибкость в реализации",
@@ -2551,7 +2559,7 @@
       "event-show-solutions.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "612aef86": {
     "src": "Подстраиваемся под формат события.",
@@ -2605,13 +2613,14 @@
   },
   "78f199dd": {
     "src": "TPI LUX проектирует, поставляет, монтирует и обслуживает световые решения, инженерные системы и инфраструктурные проекты в Грузии. Один подрядчик — единый результат.",
-    "ka": "TPI LUX აპროექტებს, აწვდის, ამონტაჟებს და ემსახურება განათების გადაწყვეტებს, საინჟინრო სისტემებსა და ინფრასტრუქტურულ პროექტებს საქართველოში. ერთი მენარდე — ერთიანი შედეგი.",
+    "ka": "TPI LUX აპროექტებს, აწვდის, ამონტაჟებს და ემსახურება განათების გადაწყვეტებს, საინჟინრო სისტემებსა და ინფრასტრუქტურულ პროექტებს საქართველოში. ერთი კონტრაქტორი — ერთიანი შედეგი.",
     "en": "TPI LUX designs, supplies, installs and maintains lighting solutions, engineering systems and infrastructure projects in Georgia. One contractor, one result.",
     "ctx": [
       "index.html:description"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "6950ca33": {
     "src": "TPI LUX — световые решения и инженерные системы в Грузии",
@@ -2626,14 +2635,15 @@
   },
   "f78176f0": {
     "src": "Проектирование, производство, поставка, монтаж и сервис световых и инженерных систем. Один подрядчик — единый результат.",
-    "ka": "განათებისა და საინჟინრო სისტემების დაპროექტება, წარმოება, მიწოდება, მონტაჟი და სერვისი. ერთი მენარდე — ერთიანი შედეგი.",
+    "ka": "განათებისა და საინჟინრო სისტემების დაპროექტება, წარმოება, მიწოდება, მონტაჟი და სერვისი. ერთი კონტრაქტორი — ერთიანი შედეგი.",
     "en": "Design, manufacturing, supply, installation and maintenance of lighting and engineering systems. One contractor, one result.",
     "ctx": [
       "index.html:og:description",
       "index.html:twitter:description"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "fdefcb8e": {
     "src": "Georgia / Premium engineering service",
@@ -2656,13 +2666,14 @@
   },
   "81381a8a": {
     "src": "Архитектурное освещение, праздничные инсталляции, электромонтаж, безопасность, климат и управление светом под ключ.",
-    "ka": "არქიტექტურული განათება, სადღესასწაულო ინსტალაციები, ელექტრომონტაჟი, უსაფრთხოება, კლიმატი და განათების მართვა სრული ციკლით.",
+    "ka": "არქიტექტურული განათება, სადღესასწაულო ინსტალაციები, ელექტრომონტაჟი, უსაფრთხოება, კლიმატი და განათების მართვა სრული მომსახურეობით.",
     "en": "Architectural lighting, festive installations, electrical work, security, climate and lighting control, turnkey.",
     "ctx": [
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "c6fbdd6c": {
     "src": "Получить консультацию",
@@ -2766,13 +2777,14 @@
   },
   "4ac5f549": {
     "src": "Работаем с частными, коммерческими и городскими проектами, помогая заказчикам получать прогнозируемый результат без лишней координации подрядчиков.",
-    "ka": "ვმუშაობთ კერძო, კომერციულ და ქალაქურ პროექტებზე და ვეხმარებით დამკვეთებს პროგნოზირებადი შედეგის მიღებაში მენარდეების ზედმეტი კოორდინაციის გარეშე.",
+    "ka": "ვმუშაობთ კერძო, კომერციულ და ქალაქურ პროექტებზე და ვეხმარებით დამკვეთებს პროგნოზირებადი შედეგის მიღებაში კონტრაქტორების ზედმეტი კოორდინაციის გარეშე.",
     "en": "We work on private, commercial and municipal projects, helping clients reach a predictable result without having to coordinate contractors themselves.",
     "ctx": [
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "f3f24385": {
     "src": "Наш подход — высокий уровень продукта и сервиса без неоправданной стоимости. Мы берём ответственность не только за поставку, но и за результат.",
@@ -2792,7 +2804,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "f8bb6e6a": {
     "src": "Инженерная экспертиза",
@@ -2822,7 +2834,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "79f71845": {
     "src": "От идеи до запуска и сопровождения.",
@@ -2856,13 +2868,14 @@
   },
   "09dc2fae": {
     "src": "Один подрядчик — единый результат",
-    "ka": "ერთი მენარდე — ერთიანი შედეგი",
+    "ka": "ერთი კონტრაქტორი — ერთიანი შედეგი",
     "en": "One contractor, one result",
     "ctx": [
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "3227ff27": {
     "src": "Минимум коммуникаций и контроль на каждом этапе.",
@@ -2892,7 +2905,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "b85f8e9f": {
     "src": "Не усложняем процессы там, где можно сделать понятнее. Не упрощаем там, где важен результат.",
@@ -2916,7 +2929,7 @@
   },
   "518f363c": {
     "src": "Нужно объединить несколько подрядчиков в одну команду.",
-    "ka": "საჭიროა რამდენიმე მენარდის ერთ გუნდად გაერთიანება.",
+    "ka": "საჭიროა რამდენიმე კონტრაქტორის ერთ გუნდად გაერთიანება.",
     "en": "Several contractors need to be brought together into one team.",
     "ctx": [
       "index.html"
@@ -3003,7 +3016,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "60981bf5": {
     "src": "17 000 м²",
@@ -3023,7 +3036,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "2c372c29": {
     "src": "20+ лет",
@@ -3083,7 +3096,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "0a5ccae4": {
     "src": "Ключевая специализация",
@@ -3123,7 +3136,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "f7085198": {
     "src": "Уличные и интерьерные гирлянды, 2D/3D фигуры, динамические сценарии и сервис.",
@@ -3183,7 +3196,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "d206a705": {
     "src": "Игровые комплексы, парковые элементы, производство, монтаж и обслуживание.",
@@ -3232,7 +3245,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "30ea9123": {
     "src": "Когда проект выходит за рамки типовых сценариев — подключается наша команда.",
@@ -3272,17 +3285,17 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "576629bd": {
     "src": "Не подгоняем идею под ассортимент.",
-    "ka": "იდეას მზა ასორტიმენტს არ ვარგებთ.",
+    "ka": "არ ვერგებთ იდეას ასორტიმენტს",
     "en": "We do not bend the idea to fit a catalogue.",
     "ctx": [
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "native"
   },
   "89c83181": {
     "src": "Сложные объекты",
@@ -3372,7 +3385,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "cbeaaa74": {
     "src": "Проектирование",
@@ -3503,7 +3516,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "9ad1f726": {
     "src": "Работаем локально. Реализуем масштабно.",
@@ -3583,7 +3596,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "c046ba52": {
     "src": "Единый стандарт реализации",
@@ -3603,7 +3616,7 @@
       "index.html:section@aria-label"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "09df6dba": {
     "src": "Как мы формируем стоимость",
@@ -3613,7 +3626,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "d6a1819f": {
     "src": "Понятная стоимость без неприятных сюрпризов",
@@ -3623,7 +3636,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "f194f9a2": {
     "src": "Чем точнее подготовка — тем спокойнее реализация.",
@@ -3653,7 +3666,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "31a5ad9a": {
     "src": "Технический расчёт",
@@ -3677,13 +3690,13 @@
   },
   "de832b3d": {
     "src": "Фиксация стоимости",
-    "ka": "ღირებულების ფიქსაცია",
+    "ka": "ღირებულების დაფიქსირება",
     "en": "Price fixing",
     "ctx": [
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "native"
   },
   "9e2c1129": {
     "src": "Согласовываем и закрепляем бюджет.",
@@ -3703,7 +3716,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "6bc435fb": {
     "src": "Работаем по утверждённому плану.",
@@ -3727,13 +3740,14 @@
   },
   "437abf49": {
     "src": "Меньше управления подрядчиками — больше контроля над результатом",
-    "ka": "ნაკლები მენარდეების მართვა — მეტი კონტროლი შედეგზე",
+    "ka": "ნაკლები კონტრაქტორების მართვა — მეტი კონტროლი შედეგზე",
     "en": "Less contractor management, more control over the result",
     "ctx": [
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "c0be0126": {
     "src": "Мы берём на себя координацию, чтобы вы могли сосредоточиться на результате.",
@@ -3743,7 +3757,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "74ffa350": {
     "src": "Единая команда вместо нескольких исполнителей.",
@@ -3763,7 +3777,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "907b9cb9": {
     "src": "Понятная коммуникация.",
@@ -3773,7 +3787,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "5717e7e7": {
     "src": "Один график",
@@ -3857,13 +3871,14 @@
   },
   "966d7351": {
     "src": "Городские пространства",
-    "ka": "ურბანული სივრცეები",
+    "ka": "საქალაქო სივრცეები",
     "en": "Urban spaces",
     "ctx": [
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "d8dc7bb1": {
     "src": "Площади, парки, улицы, сезонное оформление и инфраструктурный свет.",
@@ -3923,7 +3938,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "77b408f5": {
     "src": "Начните не с расчёта — начните с идеи",
@@ -3933,7 +3948,7 @@
       "index.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "3918c5aa": {
     "src": "Расскажите задачу — предложим концепцию реализации, подход и возможные сценарии проекта.",
@@ -4031,7 +4046,7 @@
       "index.html:input@placeholder"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "4a19af34": {
     "src": "Задача",
@@ -4075,7 +4090,7 @@
   },
   "42bfc8fe": {
     "src": "Светодиодные гирлянды и фигуры | TPI LUX",
-    "ka": "შუქდიოდური გირლანდები და ფიგურები | TPI LUX",
+    "ka": "დიოდური გირლანდები და ფიგურები | TPI LUX",
     "en": "LED Garlands and Figures | TPI LUX",
     "ctx": [
       "led-garlands-figures.html",
@@ -4083,11 +4098,12 @@
       "led-garlands-figures.html:twitter:title"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "1e295e9c": {
     "src": "Производство, поставка, монтаж и обслуживание светодиодных гирлянд, 2D и 3D фигур для городских пространств.",
-    "ka": "შუქდიოდური გირლანდების, 2D და 3D ფიგურების წარმოება, მიწოდება, მონტაჟი და მომსახურება ურბანული სივრცეებისთვის.",
+    "ka": "დიოდური გირლანდების, 2D და 3D ფიგურების წარმოება, მიწოდება, მონტაჟი და მომსახურება საქალაქო სივრცეებისთვის.",
     "en": "Manufacturing, supply, installation and maintenance of LED garlands and 2D and 3D figures for urban spaces.",
     "ctx": [
       "led-garlands-figures.html:description",
@@ -4095,7 +4111,8 @@
       "led-garlands-figures.html:twitter:description"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "29f9e927": {
     "src": "TPI LUX / направление 02",
@@ -4105,17 +4122,18 @@
       "led-garlands-figures.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "5ab5da2d": {
     "src": "Светодиодные гирлянды и световые фигуры",
-    "ka": "შუქდიოდური გირლანდები და სასინათლე ფიგურები",
+    "ka": "დიოდური გირლანდები და სასინათლე ფიგურები",
     "en": "LED garlands and light figures",
     "ctx": [
       "led-garlands-figures.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "660aa40e": {
     "src": "Создаём световые конструкции для улиц, площадей, фасадов, парков и мероприятий: от подбора оборудования до монтажа, сценариев, демонтажа и сезонного хранения.",
@@ -4155,7 +4173,7 @@
       "led-garlands-figures.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "a74efb26": {
     "src": "Рассчитываем количество элементов, яркость, типы гирлянд и конструкций под задачу, масштаб и бюджет.",
@@ -4165,7 +4183,7 @@
       "led-garlands-figures.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "63bd95ee": {
     "src": "Производство и изготовление",
@@ -4245,7 +4263,7 @@
       "led-garlands-figures.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "d792075b": {
     "src": "интерьерные гирлянды",
@@ -4255,7 +4273,7 @@
       "led-garlands-figures.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "f502f160": {
     "src": "контурные и линейные решения",
@@ -4289,13 +4307,14 @@
   },
   "3d0dbf1c": {
     "src": "городские арт-объекты",
-    "ka": "ურბანული არტ-ობიექტები",
+    "ka": "საქალაქო არტ-ობიექტები",
     "en": "urban art objects",
     "ctx": [
       "led-garlands-figures.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "8e3a9a19": {
     "src": "2D конструкции",
@@ -4325,7 +4344,7 @@
       "led-garlands-figures.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "7f26aef8": {
     "src": "Системы управления светом | TPI LUX",
@@ -4341,7 +4360,7 @@
   },
   "580d10b8": {
     "src": "DMX, контроллеры, централизованное управление и динамические сценарии для фасадов, городских пространств и инсталляций.",
-    "ka": "DMX, კონტროლერები, ცენტრალიზებული მართვა და დინამიკური სცენარები ფასადების, ურბანული სივრცეებისა და ინსტალაციებისთვის.",
+    "ka": "DMX, კონტროლერები, ცენტრალიზებული მართვა და დინამიკური სცენარები ფასადების, საქალაქო სივრცეებისა და ინსტალაციებისთვის.",
     "en": "DMX, controllers, centralised control and dynamic scenes for facades, urban spaces and installations.",
     "ctx": [
       "lighting-control.html:description",
@@ -4349,7 +4368,8 @@
       "lighting-control.html:twitter:description"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "0f75b7eb": {
     "src": "TPI LUX / направление 05",
@@ -4359,7 +4379,7 @@
       "lighting-control.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "fe1a17c9": {
     "src": "Системы управления архитектурным и декоративным освещением",
@@ -4373,13 +4393,14 @@
   },
   "3d11a73f": {
     "src": "Проектируем интеллектуальные системы управления светом для фасадов, городских пространств и световых инсталляций. Настраиваем логику работы, сценарии и интеграции.",
-    "ka": "ვაპროექტებთ განათების ინტელექტუალურ მართვის სისტემებს ფასადების, ურბანული სივრცეებისა და სასინათლე ინსტალაციებისთვის. ვამართავთ მუშაობის ლოგიკას, სცენარებსა და ინტეგრაციებს.",
+    "ka": "ვაპროექტებთ განათების ინტელექტუალურ მართვის სისტემებს ფასადების, საქალაქო სივრცეებისა და სასინათლე ინსტალაციებისთვის. ვამართავთ მუშაობის ლოგიკას, სცენარებსა და ინტეგრაციებს.",
     "en": "We design intelligent lighting control systems for facades, urban spaces and light installations. We set up the operating logic, the scenes and the integrations.",
     "ctx": [
       "lighting-control.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "7b163f0d": {
     "src": "Управляемый, а не только эффектный свет",
@@ -4389,7 +4410,7 @@
       "lighting-control.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "c1784d6a": {
     "src": "Сценарии света должны быть не только эффектными, но и управляемыми: понятная логика, стабильное подключение и проверенная архитектура системы.",
@@ -4439,7 +4460,7 @@
       "lighting-control.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "1d23bf42": {
     "src": "Монтаж оборудования",
@@ -4571,11 +4592,11 @@
       "playgrounds-urban.html:twitter:title"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "5f692950": {
     "src": "Производство, поставка и установка детских площадок, игровых комплексов и парковой мебели для городских пространств.",
-    "ka": "საბავშვო მოედნების, სათამაშო კომპლექსებისა და საპარკე ავეჯის წარმოება, მიწოდება და მონტაჟი ურბანული სივრცეებისთვის.",
+    "ka": "საბავშვო მოედნების, სათამაშო კომპლექსებისა და საპარკე ავეჯის წარმოება, მიწოდება და მონტაჟი საქალაქო სივრცეებისთვის.",
     "en": "Manufacturing, supply and installation of playgrounds, play complexes and park furniture for urban spaces.",
     "ctx": [
       "playgrounds-urban.html:description",
@@ -4583,7 +4604,8 @@
       "playgrounds-urban.html:twitter:description"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "60ce605e": {
     "src": "TPI LUX / направление 08",
@@ -4593,7 +4615,7 @@
       "playgrounds-urban.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "e65cd99a": {
     "src": "Детские игровые площадки и элементы благоустройства",
@@ -4793,7 +4815,7 @@
       "playgrounds-urban.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "7cd60b7c": {
     "src": "балансиры",
@@ -4803,7 +4825,7 @@
       "playgrounds-urban.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "f4ff16a8": {
     "src": "песочницы",
@@ -4813,7 +4835,7 @@
       "playgrounds-urban.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "892cfa32": {
     "src": "скамейки и лавочки",
@@ -4847,7 +4869,7 @@
   },
   "a1e3cc47": {
     "src": "Безопасность и слаботочные сети | TPI LUX",
-    "ka": "უსაფრთხოება და სუსტი დენების ქსელები | TPI LUX",
+    "ka": "უსაფრთხოება და დაბალი ძაბვის ქსელები | TPI LUX",
     "en": "Security and Low-Voltage Systems | TPI LUX",
     "ctx": [
       "security-low-voltage.html",
@@ -4855,11 +4877,12 @@
       "security-low-voltage.html:twitter:title"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "437cac1b": {
     "src": "Проектирование и внедрение видеонаблюдения, контроля доступа, СКС и слаботочных сетей для объектов.",
-    "ka": "ვიდეოთვალთვალის, წვდომის კონტროლის, სტრუქტურირებული საკაბელო სისტემებისა და სუსტი დენების ქსელების დაპროექტება და დანერგვა ობიექტებისთვის.",
+    "ka": "ვიდეოთვალთვალის, წვდომის კონტროლის, სტრუქტურირებული საკაბელო სისტემებისა და დაბალი ძაბვის ქსელების დაპროექტება და დანერგვა ობიექტებისთვის.",
     "en": "Design and delivery of video surveillance, access control, structured cabling and low-voltage systems for sites.",
     "ctx": [
       "security-low-voltage.html:description",
@@ -4867,7 +4890,8 @@
       "security-low-voltage.html:twitter:description"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "6e17a77f": {
     "src": "TPI LUX / направление 06",
@@ -4877,27 +4901,29 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "7f72192f": {
     "src": "Системы безопасности и слаботочная инфраструктура",
-    "ka": "უსაფრთხოების სისტემები და სუსტი დენების ინფრასტრუქტურა",
+    "ka": "უსაფრთხოების სისტემები და დაბალი ძაბვის ინფრასტრუქტურა",
     "en": "Security systems and low-voltage infrastructure",
     "ctx": [
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "62c359c4": {
     "src": "Внедряем системы безопасности, контроля доступа и слаботочные сети для зданий, общественных пространств и инфраструктурных объектов.",
-    "ka": "ვნერგავთ უსაფრთხოების, წვდომის კონტროლის სისტემებსა და სუსტი დენების ქსელებს შენობების, საზოგადოებრივი სივრცეებისა და ინფრასტრუქტურული ობიექტებისთვის.",
+    "ka": "ვნერგავთ უსაფრთხოების, წვდომის კონტროლის სისტემებსა და დაბალი ძაბვის ქსელებს შენობების, საზოგადოებრივი სივრცეებისა და ინფრასტრუქტურული ობიექტებისთვის.",
     "en": "We deliver security systems, access control and low-voltage networks for buildings, public spaces and infrastructure sites.",
     "ctx": [
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "79ef5fb7": {
     "src": "Единая инфраструктура контроля",
@@ -4907,7 +4933,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "44c4724d": {
     "src": "Системы можно объединять в единую инфраструктуру управления безопасностью, чтобы объект контролировался централизованно.",
@@ -5001,13 +5027,14 @@
   },
   "44dfbaa4": {
     "src": "Слаботочные сети",
-    "ka": "სუსტი დენების ქსელები",
+    "ka": "დაბალი ძაბვის ქსელები",
     "en": "Low-voltage networks",
     "ctx": [
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "58a7f03b": {
     "src": "Структурированные кабельные системы, сети передачи данных, коммуникационные линии и распределение сигналов.",
@@ -5107,7 +5134,7 @@
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt"
+    "st_ka": "mt-approved"
   },
   "5240e7ed": {
     "src": "коммуникационные линии",
@@ -5121,13 +5148,14 @@
   },
   "b1a4babd": {
     "src": "Нужна система безопасности для объекта? Разработаем и внедрим видеонаблюдение, доступ и слаботочные сети.",
-    "ka": "გჭირდებათ უსაფრთხოების სისტემა ობიექტისთვის? დავაპროექტებთ და დავნერგავთ ვიდეოთვალთვალს, წვდომის კონტროლსა და სუსტი დენების ქსელებს.",
+    "ka": "გჭირდებათ უსაფრთხოების სისტემა ობიექტისთვის? დავაპროექტებთ და დავნერგავთ ვიდეოთვალთვალს, წვდომის კონტროლსა და დაბალი ძაბვის ქსელებს.",
     "en": "Need a security system for a site? We will design and deliver surveillance, access control and low-voltage networks.",
     "ctx": [
       "security-low-voltage.html"
     ],
     "st_en": "done",
-    "st_ka": "mt-agreed"
+    "st_ka": "mt-agreed",
+    "term_review": true
   },
   "bce1786a": {
     "src": "Закрыть меню",
