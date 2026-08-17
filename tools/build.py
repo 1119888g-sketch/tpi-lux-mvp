@@ -28,7 +28,7 @@ TPL_DIR = ROOT / "src" / "templates"
 STRINGS = ROOT / "src" / "i18n" / "strings.json"
 DIST = ROOT / "dist"
 
-SITE_URL = "https://tpilux.com"
+SITE_URL = "https://tpilux.ge"
 
 # Порядок важен: первый язык — основной.
 LANGS = {
