@@ -103,6 +103,12 @@ textarea {
   font-size: 14px;
 }
 
+/* Пункт меню — цельная подпись. Без этого грузинские «კომპანიის შესახებ»
+   и «სამუშაო მოდელი» разваливались на две строки и шапка ехала. */
+.main-nav a {
+  white-space: nowrap;
+}
+
 .main-nav a:hover,
 .contact-links a:hover {
   color: var(--gold);
@@ -125,6 +131,8 @@ textarea {
   border-color: rgba(213, 170, 99, 0.46);
   color: var(--gold);
   font-size: 14px;
+  /* Надпись на кнопке в две строки ломает высоту шапки. */
+  white-space: nowrap;
 }
 
 .button.primary {
@@ -758,7 +766,7 @@ h3 {
   color: var(--white);
 }
 
-@media (max-width: 1120px) {
+@media (max-width: 1160px) {
   .service-grid,
   .detail-grid,
   .related-grid {
@@ -782,12 +790,6 @@ h3 {
 }
 
 @media (max-width: 860px) {
-  .site-header {
-    /* Переключатель языка остаётся видимым и на мобильных. */
-    grid-template-columns: auto 1fr auto auto;
-    gap: 14px;
-  }
-
   .brand-icon {
     width: 30px;
     height: 18px;
@@ -796,33 +798,6 @@ h3 {
   .brand-mark,
   .brand-text {
     font-size: 20px;
-  }
-
-  .main-nav,
-  .header-cta {
-    display: none;
-  }
-
-  .main-nav.is-open {
-    position: fixed;
-    top: 76px;
-    left: 0;
-    right: 0;
-    display: grid;
-    justify-content: stretch;
-    gap: 0;
-    border-bottom: 1px solid var(--line);
-    background: rgba(13, 16, 17, 0.96);
-  }
-
-  .main-nav.is-open a {
-    padding: 16px 22px;
-    border-top: 1px solid var(--line);
-  }
-
-  .menu-toggle {
-    display: block;
-    justify-self: end;
   }
 
   .hero {
@@ -1374,86 +1349,51 @@ h3 {
    ========================================================================== */
 
 .lang-switch {
-  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 2px;
   justify-self: end;
 }
 
-.lang-current {
+/* Минимум 44x44px на касание — иначе на телефоне промахиваются.
+   Раньше кнопка была около 28px, и это была главная претензия к переключателю. */
+.lang-switch a {
   display: inline-flex;
   align-items: center;
-  gap: 7px;
-  padding: 7px 12px;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: transparent;
-  color: var(--text);
-  font: inherit;
-  font-size: 12px;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 11px;
+  border-radius: var(--radius);
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 13px;
   font-weight: 700;
-  letter-spacing: 0.06em;
-  cursor: pointer;
-  transition: border-color 0.2s ease, color 0.2s ease;
-}
-
-.lang-current:hover,
-.lang-switch.is-open .lang-current {
-  border-color: var(--gold);
-  color: var(--gold);
-}
-
-.lang-globe {
-  width: 15px;
-  height: 15px;
-  fill: none;
-  stroke: currentColor;
-  stroke-width: 1.5;
-  stroke-linecap: round;
-}
-
-.lang-code {
-  line-height: 1;
-}
-
-.lang-menu {
-  position: absolute;
-  top: calc(100% + 10px);
-  right: 0;
-  z-index: 30;
-  display: none;
-  min-width: 152px;
-  margin: 0;
-  padding: 6px;
-  list-style: none;
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  background: rgba(20, 24, 23, 0.98);
-  backdrop-filter: blur(18px);
-  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
-}
-
-.lang-switch.is-open .lang-menu {
-  display: block;
-}
-
-.lang-menu a {
-  display: block;
-  padding: 9px 12px;
-  border-radius: 8px;
-  color: var(--muted);
-  font-size: 14px;
-  text-decoration: none;
+  line-height: 1.1;
   white-space: nowrap;
-  transition: background 0.15s ease, color 0.15s ease;
+  transition: color 0.15s ease, background 0.15s ease;
 }
 
-.lang-menu a:hover,
-.lang-menu a:focus-visible {
-  background: rgba(255, 255, 255, 0.06);
+.lang-switch a:hover {
   color: var(--text);
+  background: rgba(255, 255, 255, 0.06);
 }
 
-.lang-menu a[aria-current="true"] {
+.lang-switch a:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+/* Текущий язык не ссылка «куда-то», а отметка «вы здесь» — гасим курсор
+   и подсвечиваем золотом, чтобы состояние читалось без наведения. */
+.lang-switch a[aria-current="page"] {
   color: var(--gold);
+  background: rgba(213, 170, 99, 0.12);
+  cursor: default;
+}
+
+/* Слово на широком экране, код на узком: скрытый вариант выпадает из дерева
+   доступности, скринридер читает ровно один. */
+.lang-short {
+  display: none;
 }
 
 /* В грузинском письме нет заглавных букв: для мхедрули uppercase — пустая
@@ -1498,19 +1438,86 @@ h3 {
   font-size: clamp(26px, 3.4vw, 46px);
 }
 
-:lang(ka) .lang-code,
-:lang(ka) .lang-current {
-  letter-spacing: 0.04em;
+:lang(ka) .lang-switch a {
+  letter-spacing: 0.02em;
 }
 
 @media (max-width: 860px) {
-  .lang-current {
-    padding: 6px 9px;
-    font-size: 11px;
+  .lang-full {
+    display: none;
   }
 
-  .lang-globe {
-    width: 14px;
-    height: 14px;
+  .lang-short {
+    display: inline;
+  }
+
+  .lang-switch a {
+    min-width: 44px;
+    padding: 0 6px;
+    font-size: 12px;
+  }
+}
+
+
+/* В шапке одновременно логотип, пять пунктов меню, кнопка-CTA и три языка.
+   Два независимых порога, иначе ноутбук 1366px получал бы бургер вместо
+   навигации.
+
+   До 1400px языки показываются кодами вместо слов — это освобождает около
+   120px и позволяет меню остаться на месте.
+
+   До 1160px меню уходит в бургер: грузинские подписи длиннее русских
+   («კომპანიის შესახებ» вместо «О компании»), и ниже этой ширины они
+   уже не помещаются даже с сокращёнными языками.
+
+   Порог 860px для остальной вёрстки оставлен как был. */
+@media (max-width: 1400px) {
+  .lang-full {
+    display: none;
+  }
+
+  .lang-short {
+    display: inline;
+  }
+
+  .lang-switch a {
+    min-width: 44px;
+    padding: 0 6px;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 1120px) {
+  .site-header {
+    /* Переключатель языка остаётся видимым — в бургер он не прячется. */
+    grid-template-columns: auto 1fr auto auto;
+    gap: 14px;
+  }
+
+  .main-nav,
+  .header-cta {
+    display: none;
+  }
+
+  .main-nav.is-open {
+    position: fixed;
+    top: 76px;
+    left: 0;
+    right: 0;
+    display: grid;
+    justify-content: stretch;
+    gap: 0;
+    border-bottom: 1px solid var(--line);
+    background: rgba(13, 16, 17, 0.96);
+  }
+
+  .main-nav.is-open a {
+    padding: 16px 22px;
+    border-top: 1px solid var(--line);
+  }
+
+  .menu-toggle {
+    display: block;
+    justify-self: end;
   }
 }

@@ -115,39 +115,45 @@ def rewrite_asset_paths(html: str) -> str:
     return ASSET_REF_RE.sub(lambda m: m.group(1) + "../" + m.group(2), html)
 
 
-LANG_SWITCH_TPL = """      <div class="lang-switch" data-lang-switch>
-        <button class="lang-current" type="button" aria-haspopup="true" aria-expanded="false" aria-label="{aria}">
-          <svg class="lang-globe" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-            <circle cx="12" cy="12" r="9"></circle>
-            <path d="M3 12h18"></path>
-            <path d="M12 3c2.5 2.6 3.8 5.7 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.7-3.8-9S9.5 5.6 12 3z"></path>
-          </svg>
-          <span class="lang-code">{label}</span>
-        </button>
-        <ul class="lang-menu" role="menu">
+# Три языка помещаются на экран целиком, поэтому выпадающего списка нет:
+# выбор в одно касание, без состояния «открыто/закрыто», без JS и без ловушек
+# фокуса. Это навигация между версиями сайта, а не меню приложения, поэтому
+# обычный <nav> со ссылками, без role="menu".
+LANG_SWITCH_TPL = """      <nav class="lang-switch" aria-label="{aria}">
 {items}
-        </ul>
-      </div>
+      </nav>
 """
+
+# Подпись даётся дважды: словом и кодом. На широком экране видно слово
+# (грузину «ქართული» понятнее латинского «KA»), на узком — код. Скрытый
+# вариант убирается через display:none и не попадает в дерево доступности,
+# так что скринридер читает ровно один.
+LANG_ITEM_TPL = (
+    '        <a lang="{code}" hreflang="{code}" href="../{code}/{page}"{current}>'
+    '<span class="lang-full">{name}</span>'
+    '<span class="lang-short">{label}</span></a>'
+)
 
 
 def lang_switch(lang: str, page: str) -> str:
     aria = {
-        "ka": "ენის შეცვლა",
-        "ru": "Сменить язык",
-        "en": "Change language",
+        "ka": "ენის არჩევა",
+        "ru": "Выбор языка",
+        "en": "Language",
     }[lang]
     items = []
     for code, meta in LANGS.items():
-        current = ' aria-current="true"' if code == lang else ""
+        # aria-current="page" — это именно текущая страница в другой языковой
+        # версии, а не абстрактное «выбрано».
+        current = ' aria-current="page"' if code == lang else ""
         # Переключение сохраняет текущую страницу, а не бросает на главную.
         items.append(
-            f'          <li role="none"><a role="menuitem" hreflang="{code}"'
-            f' lang="{code}" href="../{code}/{page}"{current}>{meta["name"]}</a></li>'
+            LANG_ITEM_TPL.format(
+                code=code, page=page, current=current,
+                name=meta["name"], label=meta["label"],
+            )
         )
-    return LANG_SWITCH_TPL.format(
-        aria=aria, label=LANGS[lang]["label"], items="\n".join(items)
-    )
+    return LANG_SWITCH_TPL.format(aria=aria, items="\n".join(items))
 
 
 def insert_lang_switch(html: str, lang: str, page: str) -> str:

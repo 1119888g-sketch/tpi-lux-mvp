@@ -67,32 +67,3 @@ if (contactForm) {
     }, 2600);
   });
 }
-
-const langSwitch = document.querySelector('[data-lang-switch]');
-if (langSwitch) {
-  const trigger = langSwitch.querySelector('.lang-current');
-
-  const setOpen = (open) => {
-    langSwitch.classList.toggle('is-open', open);
-    if (trigger) trigger.setAttribute('aria-expanded', String(open));
-  };
-
-  if (trigger) {
-    trigger.addEventListener('click', (event) => {
-      event.stopPropagation();
-      setOpen(!langSwitch.classList.contains('is-open'));
-    });
-  }
-
-  // Клик мимо и Esc закрывают список — иначе он залипает на тач-устройствах.
-  document.addEventListener('click', (event) => {
-    if (!langSwitch.contains(event.target)) setOpen(false);
-  });
-
-  document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape' && langSwitch.classList.contains('is-open')) {
-      setOpen(false);
-      if (trigger) trigger.focus();
-    }
-  });
-}
