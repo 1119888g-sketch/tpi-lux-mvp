@@ -5,3 +5,6 @@ assets/_orig/
 .venv-xlsx/
 .mt/
 tools/__pycache__/
+.env
+.env.*
+!.env.example
